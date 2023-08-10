@@ -1,0 +1,12 @@
+C:\Users\rkostyuk\source\repos\DocumentEstraction\AIBasedServises\bin\Debug\net7.0\AIBasedServises.deps.json
+C:\Users\rkostyuk\source\repos\DocumentEstraction\AIBasedServises\bin\Debug\net7.0\AIBasedServises.dll
+C:\Users\rkostyuk\source\repos\DocumentEstraction\AIBasedServises\bin\Debug\net7.0\AIBasedServises.pdb
+C:\Users\rkostyuk\source\repos\DocumentEstraction\AIBasedServises\obj\Debug\net7.0\AIBasedServises.csproj.AssemblyReference.cache
+C:\Users\rkostyuk\source\repos\DocumentEstraction\AIBasedServises\obj\Debug\net7.0\AIBasedServises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkostyuk\source\repos\DocumentEstraction\AIBasedServises\obj\Debug\net7.0\AIBasedServises.AssemblyInfoInputs.cache
+C:\Users\rkostyuk\source\repos\DocumentEstraction\AIBasedServises\obj\Debug\net7.0\AIBasedServises.AssemblyInfo.cs
+C:\Users\rkostyuk\source\repos\DocumentEstraction\AIBasedServises\obj\Debug\net7.0\AIBasedServises.csproj.CoreCompileInputs.cache
+C:\Users\rkostyuk\source\repos\DocumentEstraction\AIBasedServises\obj\Debug\net7.0\AIBasedServises.dll
+C:\Users\rkostyuk\source\repos\DocumentEstraction\AIBasedServises\obj\Debug\net7.0\refint\AIBasedServises.dll
+C:\Users\rkostyuk\source\repos\DocumentEstraction\AIBasedServises\obj\Debug\net7.0\AIBasedServises.pdb
+C:\Users\rkostyuk\source\repos\DocumentEstraction\AIBasedServises\obj\Debug\net7.0\ref\AIBasedServises.dll
