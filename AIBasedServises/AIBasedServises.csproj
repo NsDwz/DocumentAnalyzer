@@ -8,6 +8,7 @@
 
     <ItemGroup>
       <PackageReference Include="Azure.AI.FormRecognizer" Version="4.0.0" />
+      <PackageReference Include="Json.Net" Version="1.0.33" />
     </ItemGroup>
 
 </Project>

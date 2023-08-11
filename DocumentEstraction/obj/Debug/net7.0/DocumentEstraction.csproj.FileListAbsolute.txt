@@ -20,3 +20,5 @@ C:\Users\rkostyuk\source\repos\DocumentEstraction\DocumentEstraction\obj\Debug\n
 C:\Users\rkostyuk\source\repos\DocumentEstraction\DocumentEstraction\obj\Debug\net7.0\DocumentEstraction.csproj.CopyComplete
 C:\Users\rkostyuk\source\repos\DocumentEstraction\DocumentEstraction\bin\Debug\net7.0\AIBasedServises.dll
 C:\Users\rkostyuk\source\repos\DocumentEstraction\DocumentEstraction\bin\Debug\net7.0\AIBasedServises.pdb
+C:\Users\rkostyuk\source\repos\DocumentEstraction\DocumentEstraction\bin\Debug\net7.0\documento-unico-de-identidade.jpg
+C:\Users\rkostyuk\source\repos\DocumentEstraction\DocumentEstraction\bin\Debug\net7.0\Json.Net.dll

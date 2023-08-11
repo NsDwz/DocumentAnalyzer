@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YN/YQifTm+rIUnS49DqPeVPfTiBTYSS6rVIPrDkzbc2mmHxm4RRUAli36UuFiyW39rTH7yQKgKclJrOZnMogJg==",
+  "dgSpecHash": "jFurHR64t9sDheKy4Mqmk/oXTK7OkPQwgB7/sSvQ4pm9cEow9F5ZGYZXmaCLjDJqi+UyB++DRucOqlZQ0Ci3tA==",
   "success": true,
   "projectFilePath": "C:\\Users\\rkostyuk\\source\\repos\\DocumentEstraction\\AIBasedServises\\AIBasedServises.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rkostyuk\\.nuget\\packages\\azure.ai.formrecognizer\\4.0.0\\azure.ai.formrecognizer.4.0.0.nupkg.sha512",
     "C:\\Users\\rkostyuk\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
+    "C:\\Users\\rkostyuk\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
     "C:\\Users\\rkostyuk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\rkostyuk\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
     "C:\\Users\\rkostyuk\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",

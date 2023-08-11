@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v7.0": {
       "AIBasedServises/1.0.0": {
         "dependencies": {
-          "Azure.AI.FormRecognizer": "4.0.0"
+          "Azure.AI.FormRecognizer": "4.0.0",
+          "Json.Net": "1.0.33"
         },
         "runtime": {
           "AIBasedServises.dll": {}
@@ -40,6 +41,14 @@
           "lib/net5.0/Azure.Core.dll": {
             "assemblyVersion": "1.25.0.0",
             "fileVersion": "1.2500.22.33004"
+          }
+        }
+      },
+      "Json.Net/1.0.33": {
+        "runtime": {
+          "lib/netstandard2.0/Json.Net.dll": {
+            "assemblyVersion": "1.0.33.1",
+            "fileVersion": "1.0.33.1"
           }
         }
       },
@@ -89,6 +98,13 @@
       "sha512": "sha512-X8Dd4sAggS84KScWIjEbFAdt2U1KDolQopTPoHVubG2y3CM54f9l6asVrP5Uy384NWXjsspPYaJgz5xHc+KvTA==",
       "path": "azure.core/1.25.0",
       "hashPath": "azure.core.1.25.0.nupkg.sha512"
+    },
+    "Json.Net/1.0.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5tE+db6BqhRAvITIVBeRsQorLGshPExfm4FmMRvWWAfs4RxeTbFFj2PIEybwmMW0qR30HKkXDYhq0YkDK2Jtxw==",
+      "path": "json.net/1.0.33",
+      "hashPath": "json.net.1.0.33.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",

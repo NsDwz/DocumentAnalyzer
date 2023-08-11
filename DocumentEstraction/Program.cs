@@ -5,11 +5,18 @@ using AIBasedServises;
 
 var analizer = new DocumentRecognizerService("https://firststep.cognitiveservices.azure.com/", "0b6f1a4ed5a943a1a31f3b2a10c85031");
 string path = "documento-unico-de-identidade.jpg";
+string outPath = "result.json";
 
 
 using (FileStream fileStream = new FileStream(path, FileMode.Open, FileAccess.Read))
 {
-    analizer.ExtractDocumentInformation(fileStream);
+    
+    using (StreamWriter outputFile = new StreamWriter(outPath))
+    {
+        
+        var jsonString = analizer.ExtractDocumentInformation(fileStream);
+        outputFile.Write(jsonString);
+    }
 }
 
 

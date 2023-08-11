@@ -48,6 +48,10 @@
             "Azure.AI.FormRecognizer": {
               "target": "Package",
               "version": "[4.0.0, )"
+            },
+            "Json.Net": {
+              "target": "Package",
+              "version": "[1.0.33, )"
             }
           },
           "imports": [
