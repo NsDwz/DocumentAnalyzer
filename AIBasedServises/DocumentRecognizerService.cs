@@ -18,7 +18,25 @@ public class DocumentRecognizerService
 
     public string ExtractDocumentInformation(Stream fs)
     {
-        AnalyzeDocumentOperation operation = _client.AnalyzeDocument(WaitUntil.Completed, "prebuilt-layout", fs);
+        
+        AnalyzeResult result = ExtractDocumentInformationUsingModel(fs, "prebuilt-layout");;
+        
+        
+        return JsonNet.Serialize(result);
+    }
+    
+    public string ExtractDocumentKeyValueInformation(Stream fs)
+    {
+        
+        AnalyzeResult result = ExtractDocumentInformationUsingModel(fs, "prebuilt-document");;
+        
+        
+        return JsonNet.Serialize(result);
+    }
+    
+    private AnalyzeResult ExtractDocumentInformationUsingModel(Stream fs, string model)
+    {
+        AnalyzeDocumentOperation operation = _client.AnalyzeDocument(WaitUntil.Completed, model, fs);
         AnalyzeResult result = operation.Value;
         
         foreach (DocumentPage page in result.Pages)
@@ -43,7 +61,7 @@ public class DocumentRecognizerService
             }
         }
 
-        return JsonNet.Serialize(result);
+        return result;
     }
 
     public async Task ExtractDocumentInformationFromURI(string uri)
@@ -57,7 +75,7 @@ public class DocumentRecognizerService
         {
             Console.WriteLine("Test " + result.Pages.Count);
         }
-        
-        
     }
+    
+    
 }
