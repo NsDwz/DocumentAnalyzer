@@ -19,7 +19,7 @@ public class DocumentRecognizerService
     public string ExtractDocumentInformation(Stream fs)
     {
         
-        AnalyzeResult result = ExtractDocumentInformationUsingModel(fs, "prebuilt-layout");;
+        AnalyzeResult result = ExtractDocumentInformationUsingModel(fs, "prebuilt-layout");
         
         
         return JsonNet.Serialize(result);
@@ -39,6 +39,7 @@ public class DocumentRecognizerService
         AnalyzeDocumentOperation operation = _client.AnalyzeDocument(WaitUntil.Completed, model, fs);
         AnalyzeResult result = operation.Value;
         
+ 
         foreach (DocumentPage page in result.Pages)
         {
             Console.WriteLine($"Page number :{page.PageNumber}");
@@ -59,6 +60,16 @@ public class DocumentRecognizerService
                     Console.WriteLine($"      Point {j} => X: {line.BoundingPolygon[j].X}, Y: {line.BoundingPolygon[j].Y}");
                 }
             }
+        }
+
+        EntityExtractor extractor = new EntityExtractor(result);
+        
+        int count = 0;
+        foreach (DocumentParagraph paragraph in result.Paragraphs)
+        {
+            
+            Console.WriteLine($"------------------------------- PARAGRAPH FONT SIZE --------------------------------------");
+            Console.WriteLine($"Paragraph {++count} has a font size of {extractor.GetFontSize(paragraph)}");
         }
 
         return result;
