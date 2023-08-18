@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Z3Gw8sbDpYojBbujSKBG+d3R3u9yZdKqHKDjf/50lB9slUVqIX08KvQGG185cpe0sD5h8hQYGDoFB79WU6IVA==",
+  "dgSpecHash": "Vz1F1K7Ae4zBco/cyr4cTRt6MdS/EfUR/qJZE+GfObW3asXgYkOX+OUcb6eXmoWJxZkPRuBJzOUxLAJVTG8ipw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\DocumentAnalyzer\\AIBasedServises\\AIBasedServises.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\DocumentAnalyzer\\AIBasedServises\\AIBasedServises.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.ai.formrecognizer\\4.0.0\\azure.ai.formrecognizer.4.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

@@ -22,7 +22,6 @@ C:\Users\rkostyuk\source\repos\DocumentEstraction\DocumentEstraction\bin\Debug\n
 C:\Users\rkostyuk\source\repos\DocumentEstraction\DocumentEstraction\bin\Debug\net7.0\AIBasedServises.pdb
 C:\Users\rkostyuk\source\repos\DocumentEstraction\DocumentEstraction\bin\Debug\net7.0\documento-unico-de-identidade.jpg
 C:\Users\rkostyuk\source\repos\DocumentEstraction\DocumentEstraction\bin\Debug\net7.0\Json.Net.dll
-C:\Users\User\Source\Repos\DocumentAnalyzer\DocumentEstraction\bin\Debug\net7.0\documento-unico-de-identidade.jpg
 C:\Users\User\Source\Repos\DocumentAnalyzer\DocumentEstraction\bin\Debug\net7.0\DocumentEstraction.exe
 C:\Users\User\Source\Repos\DocumentAnalyzer\DocumentEstraction\bin\Debug\net7.0\DocumentEstraction.deps.json
 C:\Users\User\Source\Repos\DocumentAnalyzer\DocumentEstraction\bin\Debug\net7.0\DocumentEstraction.runtimeconfig.json
@@ -46,3 +45,5 @@ C:\Users\User\Source\Repos\DocumentAnalyzer\DocumentEstraction\obj\Debug\net7.0\
 C:\Users\User\Source\Repos\DocumentAnalyzer\DocumentEstraction\obj\Debug\net7.0\DocumentEstraction.pdb
 C:\Users\User\Source\Repos\DocumentAnalyzer\DocumentEstraction\obj\Debug\net7.0\DocumentEstraction.genruntimeconfig.cache
 C:\Users\User\Source\Repos\DocumentAnalyzer\DocumentEstraction\obj\Debug\net7.0\ref\DocumentEstraction.dll
+C:\Users\User\source\repos\DocumentAnalyzer\DocumentEstraction\bin\Debug\net7.0\InputFiles\documento-unico-de-identidade.jpg
+C:\Users\User\source\repos\DocumentAnalyzer\DocumentEstraction\bin\Debug\net7.0\OutputFiles\result.json

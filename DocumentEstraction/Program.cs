@@ -9,7 +9,7 @@ if (args.Length == 1)
     string path = args[0];
     
     var analizer = new DocumentRecognizerService("https://firststep.cognitiveservices.azure.com/", "0b6f1a4ed5a943a1a31f3b2a10c85031");
-    string outPath = "result.json";
+    string outPath = "OutputFiles/result.json";
     string outKeyValuePath = "resultKeyValue.json";
 
 

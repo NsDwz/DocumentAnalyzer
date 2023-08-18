@@ -62,7 +62,7 @@ public class DocumentRecognizerService
             }
         }
 
-        EntityExtractor extractor = new EntityExtractor(result);
+        DocumentModel extractor = new DocumentModel(result);
         
         int count = 0;
         foreach (DocumentParagraph paragraph in result.Paragraphs)

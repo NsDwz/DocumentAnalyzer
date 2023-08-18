@@ -16,8 +16,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="documento-unico-de-identidade.jpg">
+    <None Update="InputFiles\documento-unico-de-identidade.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="OutputFiles\result.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 

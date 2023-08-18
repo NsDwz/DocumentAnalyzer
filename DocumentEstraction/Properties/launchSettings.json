@@ -2,7 +2,7 @@
   "profiles": {
     "DocumentEstraction": {
       "commandName": "Project",
-      "commandLineArgs": "documento-unico-de-identidade.jpg"
+      "commandLineArgs": "InputFiles/documento-unico-de-identidade.jpg"
     }
   }
 }
