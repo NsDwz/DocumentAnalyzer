@@ -1,4 +1,6 @@
-﻿using Azure;
+﻿using System.Collections.ObjectModel;
+using System.Drawing;
+using Azure;
 using Azure.AI.FormRecognizer.DocumentAnalysis;
 using Json.Net;
 
@@ -54,11 +56,13 @@ public class DocumentRecognizerService
                 Console.WriteLine($"    Its bounding polygon (points ordered clockwise):");
                 
                 Console.WriteLine($"    Bounding Polygon description: number of vertex = {line.BoundingPolygon.Count}");
-                
+
                 for (int j = 0; j < line.BoundingPolygon.Count; j++)
                 {
                     Console.WriteLine($"      Point {j} => X: {line.BoundingPolygon[j].X}, Y: {line.BoundingPolygon[j].Y}");
                 }
+                
+                Console.WriteLine($"    Angle = {getInclinationAngle(line.BoundingPolygon)}");
             }
         }
 
@@ -75,6 +79,41 @@ public class DocumentRecognizerService
         return result;
     }
 
+
+    private IReadOnlyList<PointF> getTheLowerLine(IReadOnlyList<PointF> boundingBox)
+    {
+        PointF lowLeft = boundingBox.First(); 
+        PointF lowRight = boundingBox.Last();
+
+        foreach (var point in boundingBox)
+        {
+            if ( point.Y < lowLeft.Y && point.X <= lowLeft.X )
+            {
+                lowLeft = point;
+            }
+
+            if (point.Y < lowRight.Y && point.X >= lowRight.X)
+            {
+                lowRight = point;
+            }
+        }
+        
+        return new List<PointF>(){lowLeft, lowRight};
+    }
+    private Double getInclinationAngle(IReadOnlyList<PointF> boundingBox)
+    {
+        IReadOnlyList<PointF> lowLine = getTheLowerLine(boundingBox);
+
+        PointF lowLeftP = lowLine.First();
+        PointF lowRightP = lowLine.Last();
+        
+        Double angle = Math.Atan((lowRightP.Y- lowLeftP.Y) / (lowRightP.X - lowLeftP.X));
+
+        angle = angle / Math.PI * 180;
+        
+        return angle;
+    }
+    
     public async Task ExtractDocumentInformationFromURI(string uri)
     {
         Uri fileUri = new Uri(uri);
