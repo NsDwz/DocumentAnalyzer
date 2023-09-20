@@ -1,1 +1,137 @@
-[{"text":"Comune di Conegliano","angle":"NaN","fontSize":49.0},{"text":"NUM. PRATICA","angle":"NaN","fontSize":82.0},{"text":"ANNO PRATICA","angle":"NaN","fontSize":86.0},{"text":"COGNOME","angle":"NaN","fontSize":38.0},{"text":"NOME","angle":"NaN","fontSize":68.0},{"text":"VIA/CIVICO","angle":"NaN","fontSize":73.0},{"text":"FOGLIO","angle":"NaN","fontSize":69.0},{"text":"MAPP","angle":"NaN","fontSize":70.0},{"text":"TIPO DOCUMENTO","angle":"NaN","fontSize":36.0},{"text":"1","angle":-2.7263110446111485,"fontSize":26.0},{"text":"DOCUMENTI INIZIALI","angle":"NaN","fontSize":28.0},{"text":"2 GRAFICI","angle":"NaN","fontSize":15.5},{"text":"X","angle":"NaN","fontSize":39.0},{"text":"3","angle":"NaN","fontSize":22.0},{"text":"DOCUMENTI VARI","angle":"NaN","fontSize":27.0},{"text":"4","angle":"NaN","fontSize":28.0},{"text":"FOTO","angle":"NaN","fontSize":24.0},{"text":"5","angle":"NaN","fontSize":26.0},{"text":"CATASTO","angle":"NaN","fontSize":24.0},{"text":"6","angle":"NaN","fontSize":26.0},{"text":"RELAZIONI","angle":"NaN","fontSize":23.0},{"text":"7","angle":"NaN","fontSize":26.0},{"text":"PRATICA SISMICA","angle":"NaN","fontSize":28.0},{"text":"8","angle":"NaN","fontSize":22.0},{"text":"GRAFICI SISMICA","angle":"NaN","fontSize":13.5},{"text":"9 DOCUMENTI FINALI","angle":"NaN","fontSize":14.5},{"text":"990010099","angle":"NaN","fontSize":18.0}]
+[
+  {
+    "text": "Comune di Conegliano",
+    "angle": 0.3806972423859554,
+    "fontSize": 49.0
+  },
+  {
+    "text": "NUM. PRATICA",
+    "angle": 0.4244054118518414,
+    "fontSize": 82.0
+  },
+  {
+    "text": "ANNO PRATICA",
+    "angle": 0.34017450832844454,
+    "fontSize": 86.0
+  },
+  {
+    "text": "COGNOME",
+    "angle": 0.2114225835990148,
+    "fontSize": 38.0
+  },
+  {
+    "text": "NOME",
+    "angle": 0.6389599053386028,
+    "fontSize": 68.0
+  },
+  {
+    "text": "VIA/CIVICO",
+    "angle": 0.6365935913769412,
+    "fontSize": 73.0
+  },
+  {
+    "text": "FOGLIO",
+    "angle": 0.6342447221044161,
+    "fontSize": 69.0
+  },
+  {
+    "text": "MAPP",
+    "angle": 0.452028335413542,
+    "fontSize": 70.0
+  },
+  {
+    "text": "TIPO DOCUMENTO",
+    "angle": 0.3183066191588068,
+    "fontSize": 36.0
+  },
+  {
+    "text": "1",
+    "angle": -2.7263110446111485,
+    "fontSize": 26.0
+  },
+  {
+    "text": "DOCUMENTI INIZIALI",
+    "angle": 0.5321436264404866,
+    "fontSize": 28.0
+  },
+  {
+    "text": "2 GRAFICI",
+    "angle": 1.1934894595405037,
+    "fontSize": 15.5
+  },
+  {
+    "text": "X",
+    "angle": 0.0,
+    "fontSize": 39.0
+  },
+  {
+    "text": "3",
+    "angle": 0.0,
+    "fontSize": 22.0
+  },
+  {
+    "text": "DOCUMENTI VARI",
+    "angle": 0.4529216470985399,
+    "fontSize": 27.0
+  },
+  {
+    "text": "4",
+    "angle": 3.366460675942001,
+    "fontSize": 28.0
+  },
+  {
+    "text": "FOTO",
+    "angle": 0.774220183673047,
+    "fontSize": 24.0
+  },
+  {
+    "text": "5",
+    "angle": 2.8624052686939745,
+    "fontSize": 26.0
+  },
+  {
+    "text": "CATASTO",
+    "angle": 0.0,
+    "fontSize": 24.0
+  },
+  {
+    "text": "6",
+    "angle": 3.5763343749973515,
+    "fontSize": 26.0
+  },
+  {
+    "text": "RELAZIONI",
+    "angle": 0.0,
+    "fontSize": 23.0
+  },
+  {
+    "text": "7",
+    "angle": 3.1798301435071967,
+    "fontSize": 26.0
+  },
+  {
+    "text": "PRATICA SISMICA",
+    "angle": 0.641343877349874,
+    "fontSize": 28.0
+  },
+  {
+    "text": "8",
+    "angle": 0.0,
+    "fontSize": 22.0
+  },
+  {
+    "text": "GRAFICI SISMICA",
+    "angle": 0.4228394097897099,
+    "fontSize": 13.5
+  },
+  {
+    "text": "9 DOCUMENTI FINALI",
+    "angle": 0.0,
+    "fontSize": 14.5
+  },
+  {
+    "text": "990010099",
+    "angle": 0.0,
+    "fontSize": 18.0
+  }
+]

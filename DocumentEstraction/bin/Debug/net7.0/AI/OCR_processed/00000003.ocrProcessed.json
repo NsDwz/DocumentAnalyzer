@@ -1,122 +1,122 @@
 [
   {
     "text": "Comune di Conegliano",
-    "angle": "NaN",
+    "angle": 0.6706557394741368,
     "fontSize": 50.0
   },
   {
     "text": "NUM. PRATICA",
-    "angle": "NaN",
+    "angle": 0.4244054118518414,
     "fontSize": 85.0
   },
   {
     "text": "ANNO PRATICA",
-    "angle": "NaN",
+    "angle": 0.19438697156208407,
     "fontSize": 83.0
   },
   {
     "text": "COGNOME",
-    "angle": "NaN",
+    "angle": 0.4228394097897099,
     "fontSize": 38.5
   },
   {
     "text": "NOME",
-    "angle": "NaN",
+    "angle": 0.6342447221044161,
     "fontSize": 68.0
   },
   {
     "text": "VIA/CIVICO",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 72.0
   },
   {
     "text": "FOGLIO",
-    "angle": "NaN",
+    "angle": 0.21220561673315122,
     "fontSize": 65.0
   },
   {
     "text": "MAPP",
-    "angle": "NaN",
+    "angle": 0.45471888794841686,
     "fontSize": 69.0
   },
   {
     "text": "TIPO DOCUMENTO",
-    "angle": "NaN",
+    "angle": 0.3200848143916441,
     "fontSize": 36.0
   },
   {
     "text": "1",
-    "angle": "NaN",
+    "angle": 1.762391025300832,
     "fontSize": 41.0
   },
   {
     "text": "DOCUMENTI INIZIALI",
-    "angle": "NaN",
+    "angle": 0.1784909419017303,
     "fontSize": 27.0
   },
   {
     "text": "2 GRAFICI",
-    "angle": "NaN",
+    "angle": 1.8183030693738023,
     "fontSize": 16.5
   },
   {
     "text": "3",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 26.0
   },
   {
     "text": "DOCUMENTI VARI",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 26.0
   },
   {
     "text": "4",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 23.0
   },
   {
     "text": "FOTO",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 24.0
   },
   {
     "text": "5",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 27.0
   },
   {
     "text": "CATASTO",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 24.0
   },
   {
     "text": "6",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 25.0
   },
   {
     "text": "RELAZIONI",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 25.0
   },
   {
     "text": "7",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 26.0
   },
   {
     "text": "PRATICA SISMICA",
-    "angle": "NaN",
+    "angle": 0.4228394097897099,
     "fontSize": 27.0
   },
   {
     "text": "8",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 24.0
   },
   {
     "text": "GRAFICI SISMICA",
-    "angle": "NaN",
+    "angle": 0.21458993332775225,
     "fontSize": 13.0
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "text": "990010099",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 18.0
   }
 ]

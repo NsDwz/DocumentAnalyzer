@@ -1,1 +1,322 @@
-[{"text":"183100 10","angle":"NaN","fontSize":34.333333333333336},{"text":"COMUNE di","angle":"NaN","fontSize":29.0},{"text":"UFFICIO TECNICO COMUNALE","angle":"NaN","fontSize":23.0},{"text":"Prot. n.","angle":"NaN","fontSize":10.333333333333334},{"text":"Li","angle":-3.366460675942001,"fontSize":28.0},{"text":"OGGETTO: Dichiarazione di conformità - Nulla-osta tecnico per permesso di agibilità.","angle":"NaN","fontSize":6.333333333333333},{"text":"Pratica edilizia - Concessione n","angle":"NaN","fontSize":8.0},{"text":"Costruzione:","angle":"NaN","fontSize":29.0},{"text":"Ditta:","angle":"NaN","fontSize":28.0},{"text":"Il sottoscritto","angle":"NaN","fontSize":31.0},{"text":"tecnico comunale, Vista la concessione edilizia n.","angle":"NaN","fontSize":22.75},{"text":"/P.E. in data","angle":"NaN","fontSize":9.666666666666666},{"text":"..","angle":"NaN","fontSize":9.333333333333334},{"text":"( eventuali modifiche )","angle":"NaN","fontSize":25.0},{"text":"Visti tutti gli atti di progetto nonchè i verbali di sopralluogo;","angle":"NaN","fontSize":34.0},{"text":"Visto che le condizioni e prescrizioni contenute nell'atto di concessione sono state adempiute, come ri- sulta dalla documentazione in atti;","angle":"NaN","fontSize":16.6},{"text":"Previo sopralluogo in data odierna;","angle":"NaN","fontSize":32.0},{"text":"DICHIARA","angle":"NaN","fontSize":32.0},{"text":"che la menzionata costruzione - ubicata in Via è stata eseguita in conformità al progetto approvato","angle":0.7973845743796389,"fontSize":4.0},{"text":"Sez","angle":"NaN","fontSize":27.0},{"text":"Fg.","angle":"NaN","fontSize":12.333333333333334},{"text":"Mapp. n","angle":"NaN","fontSize":12.0},{"text":"ed alla concessione edilizia premessa;","angle":"NaN","fontSize":33.0},{"text":"RITIENE","angle":"NaN","fontSize":30.0},{"text":"nulla-ostare dal punto di vista tecnico al rilascio del permesso di agibilità (1 )","angle":"NaN","fontSize":7.4},{"text":"CERTIFICA","angle":"NaN","fontSize":32.0},{"text":"la consistenza dell'opera:","angle":"NaN","fontSize":33.0},{"text":"Edifici","angle":"NaN","fontSize":107.0},{"text":"Locali destinati all'attività","angle":"NaN","fontSize":28.5},{"text":"Locall destinati ad altro uso","angle":"NaN","fontSize":21.4},{"text":"Totale generale vani e locall","angle":"NaN","fontSize":26.75},{"text":"Locall","angle":"NaN","fontSize":27.0},{"text":"Accessori","angle":"NaN","fontSize":54.0},{"text":"Totale","angle":"NaN","fontSize":27.5},{"text":"1","angle":"NaN","fontSize":35.0},{"text":"2","angle":"NaN","fontSize":36.0},{"text":"3","angle":"NaN","fontSize":36.0},{"text":"4=2+3","angle":"NaN","fontSize":12.0},{"text":"5","angle":"NaN","fontSize":36.0},{"text":"6=4+5","angle":"NaN","fontSize":18.5},{"text":"Distinta locali destinati ad uso specifico:","angle":"NaN","fontSize":11.666666666666666},{"text":"- Negozi . .","angle":"NaN","fontSize":5.428571428571429},{"text":"nr","angle":"NaN","fontSize":5.75},{"text":"mq ..","angle":"NaN","fontSize":2.4},{"text":"- Magazzini . . nr.","angle":"NaN","fontSize":2.533333333333333},{"text":"- Laboratori","angle":-0.3063916282629337,"fontSize":9.5},{"text":"nr mq","angle":"NaN","fontSize":2.7777777777777777},{"text":"- Autorimesse","angle":"NaN","fontSize":7.25},{"text":"nr","angle":"NaN","fontSize":5.5},{"text":"- Stalle nr","angle":"NaN","fontSize":3.75},{"text":"mq","angle":"NaN","fontSize":4.8},{"text":"- Cantine","angle":"NaN","fontSize":6.25},{"text":"nr.","angle":"NaN","fontSize":2.0},{"text":"nr.","angle":"NaN","fontSize":2.0},{"text":"mq","angle":"NaN","fontSize":4.8},{"text":"nr.","angle":"NaN","fontSize":2.1},{"text":"OSSERVAZIONI","angle":"NaN","fontSize":31.0},{"text":"Visto: IL SINDACO","angle":"NaN","fontSize":29.0},{"text":"mq","angle":"NaN","fontSize":4.8},{"text":"mq.","angle":"NaN","fontSize":2.875},{"text":"mq","angle":"NaN","fontSize":4.2},{"text":"mq ..","angle":"NaN","fontSize":2.3},{"text":"IL TECNICO COMUNALE","angle":"NaN","fontSize":33.0},{"text":"( 1 ) ed allo svincolo della cauzione . . . (in caso di stipula di convenzione o atto unilaterale).","angle":"NaN","fontSize":7.0}]
+[
+  {
+    "text": "183100 10",
+    "angle": 59.7435630841978,
+    "fontSize": 34.33
+  },
+  {
+    "text": "COMUNE di",
+    "angle": 0.0,
+    "fontSize": 29.0
+  },
+  {
+    "text": "UFFICIO TECNICO COMUNALE",
+    "angle": 0.0,
+    "fontSize": 23.0
+  },
+  {
+    "text": "Prot. n.",
+    "angle": 1.7013546317191022,
+    "fontSize": 10.33
+  },
+  {
+    "text": "Li",
+    "angle": -3.366460675942001,
+    "fontSize": 28.0
+  },
+  {
+    "text": "OGGETTO: Dichiarazione di conformità - Nulla-osta tecnico per permesso di agibilità.",
+    "angle": 0.19604980983607426,
+    "fontSize": 6.33
+  },
+  {
+    "text": "Pratica edilizia - Concessione n",
+    "angle": 0.13739969062038285,
+    "fontSize": 8.0
+  },
+  {
+    "text": "Costruzione:",
+    "angle": 0.3370301164492143,
+    "fontSize": 29.0
+  },
+  {
+    "text": "Ditta:",
+    "angle": 1.5074357700010574,
+    "fontSize": 28.0
+  },
+  {
+    "text": "Il sottoscritto",
+    "angle": 0.30476190077098053,
+    "fontSize": 31.0
+  },
+  {
+    "text": "tecnico comunale, Vista la concessione edilizia n.",
+    "angle": 87.33699923393286,
+    "fontSize": 22.75
+  },
+  {
+    "text": "/P.E. in data",
+    "angle": 0.3430844123041137,
+    "fontSize": 9.67
+  },
+  {
+    "text": "..",
+    "angle": 0.0,
+    "fontSize": 9.33
+  },
+  {
+    "text": "( eventuali modifiche )",
+    "angle": 0.567266400877285,
+    "fontSize": 25.0
+  },
+  {
+    "text": "Visti tutti gli atti di progetto nonchè i verbali di sopralluogo;",
+    "angle": 0.14341842517028455,
+    "fontSize": 34.0
+  },
+  {
+    "text": "Visto che le condizioni e prescrizioni contenute nell'atto di concessione sono state adempiute, come ri- sulta dalla documentazione in atti;",
+    "angle": 0.24040046400698567,
+    "fontSize": 16.6
+  },
+  {
+    "text": "Previo sopralluogo in data odierna;",
+    "angle": 0.11911787393890545,
+    "fontSize": 32.0
+  },
+  {
+    "text": "DICHIARA",
+    "angle": 0.0,
+    "fontSize": 32.0
+  },
+  {
+    "text": "che la menzionata costruzione - ubicata in Via è stata eseguita in conformità al progetto approvato",
+    "angle": -86.18592516570965,
+    "fontSize": 4.0
+  },
+  {
+    "text": "Sez",
+    "angle": 2.2906099914939424,
+    "fontSize": 27.0
+  },
+  {
+    "text": "Fg.",
+    "angle": 0.0,
+    "fontSize": 12.33
+  },
+  {
+    "text": "Mapp. n",
+    "angle": 0.0,
+    "fontSize": 12.0
+  },
+  {
+    "text": "ed alla concessione edilizia premessa;",
+    "angle": 0.3188971454577923,
+    "fontSize": 33.0
+  },
+  {
+    "text": "RITIENE",
+    "angle": 0.2968666598599047,
+    "fontSize": 30.0
+  },
+  {
+    "text": "nulla-ostare dal punto di vista tecnico al rilascio del permesso di agibilità (1 )",
+    "angle": 0.21418883875259406,
+    "fontSize": 7.4
+  },
+  {
+    "text": "CERTIFICA",
+    "angle": 0.0,
+    "fontSize": 32.0
+  },
+  {
+    "text": "la consistenza dell'opera:",
+    "angle": 0.0,
+    "fontSize": 33.0
+  },
+  {
+    "text": "Edifici",
+    "angle": 0.0,
+    "fontSize": 107.0
+  },
+  {
+    "text": "Locali destinati all'attività",
+    "angle": 0.41820993818656327,
+    "fontSize": 28.5
+  },
+  {
+    "text": "Locall destinati ad altro uso",
+    "angle": 0.3819662139778289,
+    "fontSize": 21.4
+  },
+  {
+    "text": "Totale generale vani e locall",
+    "angle": 0.3183066191588068,
+    "fontSize": 26.75
+  },
+  {
+    "text": "Locall",
+    "angle": 0.437363868946321,
+    "fontSize": 27.0
+  },
+  {
+    "text": "Accessori",
+    "angle": 0.437363868946321,
+    "fontSize": 54.0
+  },
+  {
+    "text": "Totale",
+    "angle": 0.774220183673047,
+    "fontSize": 27.5
+  },
+  {
+    "text": "1",
+    "angle": 0.4982115898789976,
+    "fontSize": 35.0
+  },
+  {
+    "text": "2",
+    "angle": 0.437363868946321,
+    "fontSize": 36.0
+  },
+  {
+    "text": "3",
+    "angle": 0.437363868946321,
+    "fontSize": 36.0
+  },
+  {
+    "text": "4=2+3",
+    "angle": 0.3871277635247272,
+    "fontSize": 12.0
+  },
+  {
+    "text": "5",
+    "angle": 0.7690246861586606,
+    "fontSize": 36.0
+  },
+  {
+    "text": "6=4+5",
+    "angle": 0.6330767958974856,
+    "fontSize": 18.5
+  },
+  {
+    "text": "Distinta locali destinati ad uso specifico:",
+    "angle": 0.5133893283960431,
+    "fontSize": 11.67
+  },
+  {
+    "text": "- Negozi . .",
+    "angle": 0.0,
+    "fontSize": 5.43
+  },
+  {
+    "text": "nr",
+    "angle": 3.5763343749973515,
+    "fontSize": 5.75
+  },
+  {
+    "text": "mq ..",
+    "angle": 3.239700344274596,
+    "fontSize": 2.4
+  },
+  {
+    "text": "- Magazzini . . nr.",
+    "angle": 0.0,
+    "fontSize": 2.53
+  },
+  {
+    "text": "- Laboratori",
+    "angle": -0.3063916282629337,
+    "fontSize": 9.5
+  },
+  {
+    "text": "nr mq",
+    "angle": 0.8550973763603916,
+    "fontSize": 2.78
+  },
+  {
+    "text": "- Autorimesse",
+    "angle": 0.7884242820183889,
+    "fontSize": 7.25
+  },
+  {
+    "text": "nr",
+    "angle": 1.7357046406247747,
+    "fontSize": 5.5
+  },
+  {
+    "text": "- Stalle nr",
+    "angle": 0.5422151890154977,
+    "fontSize": 3.75
+  },
+  {
+    "text": "mq",
+    "angle": 2.792702261841712,
+    "fontSize": 4.8
+  },
+  {
+    "text": "- Cantine",
+    "angle": 0.0,
+    "fontSize": 6.25
+  },
+  {
+    "text": "nr.",
+    "angle": 3.366460675942001,
+    "fontSize": 2.0
+  },
+  {
+    "text": "nr.",
+    "angle": 3.366460675942001,
+    "fontSize": 2.0
+  },
+  {
+    "text": "mq",
+    "angle": 2.7263110446111485,
+    "fontSize": 4.8
+  },
+  {
+    "text": "nr.",
+    "angle": 4.635463220584337,
+    "fontSize": 2.1
+  },
+  {
+    "text": "OSSERVAZIONI",
+    "angle": 0.5968094690141983,
+    "fontSize": 31.0
+  },
+  {
+    "text": "Visto: IL SINDACO",
+    "angle": 0.2114225835990148,
+    "fontSize": 29.0
+  },
+  {
+    "text": "mq",
+    "angle": 2.6025622799555594,
+    "fontSize": 4.8
+  },
+  {
+    "text": "mq.",
+    "angle": 2.4366481697467393,
+    "fontSize": 2.88
+  },
+  {
+    "text": "mq",
+    "angle": 2.663000756160973,
+    "fontSize": 4.2
+  },
+  {
+    "text": "mq ..",
+    "angle": 3.3018656907992603,
+    "fontSize": 2.3
+  },
+  {
+    "text": "IL TECNICO COMUNALE",
+    "angle": 0.6566564238297403,
+    "fontSize": 33.0
+  },
+  {
+    "text": "( 1 ) ed allo svincolo della cauzione . . . (in caso di stipula di convenzione o atto unilaterale).",
+    "angle": 0.8238869654907814,
+    "fontSize": 7.0
+  }
+]

@@ -22,7 +22,7 @@ try
             AnalyzeResult result = analyzer.ExtractDocumentInformationUsingModel(fileStream, "prebuilt-layout");
 
             //JSON file
-            using (StreamWriter outputFile = new StreamWriter(outputDirName + Path.GetFileNameWithoutExtension(currentFile) + ".json", false))
+            using (StreamWriter outputFile = new StreamWriter(outputDirName + Path.GetFileNameWithoutExtension(currentFile) + "ocr.json", false))
             {
                 var jsonString = JsonConvert.SerializeObject(result, Formatting.Indented);
                 outputFile.Write(jsonString);

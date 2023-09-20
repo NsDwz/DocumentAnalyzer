@@ -6,12 +6,12 @@
   },
   {
     "text": "CITTÀ DI CONEGLIANO PROVINCIA DI TREVISO",
-    "angle": "NaN",
+    "angle": 3.9637656157684327,
     "fontSize": 135.5
   },
   {
     "text": "74",
-    "angle": "NaN",
+    "angle": 6.729448549912544,
     "fontSize": 300.0
   },
   {
@@ -21,22 +21,22 @@
   },
   {
     "text": "OGGETTO:",
-    "angle": "NaN",
+    "angle": 1.6424397004085043,
     "fontSize": 109.0
   },
   {
     "text": "PRATICA - COP1000003S",
-    "angle": "NaN",
+    "angle": 3.0062071119584095,
     "fontSize": 68.0
   },
   {
     "text": "BORTOT",
-    "angle": 0.7127807119596666,
+    "angle": 0.5414388580362217,
     "fontSize": 215.0
   },
   {
     "text": "LUIGINA",
-    "angle": 0.19706123955916108,
+    "angle": 0.0,
     "fontSize": 191.0
   }
 ]

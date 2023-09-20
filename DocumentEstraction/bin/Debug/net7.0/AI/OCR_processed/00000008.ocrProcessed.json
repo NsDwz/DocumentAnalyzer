@@ -1,1 +1,282 @@
-[{"text":"COMUNE DI CONEGLIANO PROVINCIA DI TREVISO","angle":"NaN","fontSize":46.5},{"text":"N. 20","angle":-0.9240453252387837,"fontSize":13.25},{"text":"Conegliano,","angle":"NaN","fontSize":37.0},{"text":"11 marzo 1985","angle":-0.8661769113746214,"fontSize":26.0},{"text":"CERTIFICATO DI ABITABILITA'","angle":"NaN","fontSize":73.0},{"text":"visto l' art. 107 e seguenti del vigente Regolamento Comunale d' Igiene","angle":"NaN","fontSize":13.333333333333334},{"text":"visto il certificato rilasciato ·dall' Ufficiale sanitario in data","angle":"NaN","fontSize":18.0},{"text":"7-2-1985","angle":"NaN","fontSize":4.7272727272727275},{"text":"-","angle":"NaN","fontSize":3.5},{"text":"udito il parere dell' Ingegnere Comunale","angle":-0.09844626109335827,"fontSize":40.0},{"text":"IL SINDACO . DICHIARA E CERTIFICA","angle":"NaN","fontSize":29.333333333333332},{"text":"- che.","angle":-1.1457628125721353,"fontSize":3.25},{"text":"la costruzione.","angle":"NaN","fontSize":31.0},{"text":"del fabbricato","angle":"NaN","fontSize":30.0},{"text":"ad uso","angle":"NaN","fontSize":33.0},{"text":"stalla","angle":-0.616059907825524,"fontSize":43.0},{"text":"sito in Via","angle":"NaN","fontSize":30.0},{"text":"Dei Colli","angle":-0.8456327659563808,"fontSize":53.0},{"text":"civico N.","angle":-1.6723943478577068,"fontSize":16.0},{"text":"di proprietà della Ditta","angle":"NaN","fontSize":36.0},{"text":"BORTOT LUIGINA","angle":"NaN","fontSize":53.0},{"text":"composto di piani","angle":-0.4715595398036487,"fontSize":35.0},{"text":"2","angle":"NaN","fontSize":25.0},{"text":"abitazioni N.","angle":-0.3390243288717212,"fontSize":15.0},{"text":"-","angle":-8.130102712740909,"fontSize":5.333333333333333},{"text":"vani utili - STALLA E FIENILE","angle":-0.5775588421000294,"fontSize":8.375},{"text":"altri vani","angle":"NaN","fontSize":35.0},{"text":"negozi con accessori·","angle":"NaN","fontSize":30.0},{"text":"vani accessori","angle":-0.6227556988051333,"fontSize":26.0},{"text":"-","angle":-9.019322735416585,"fontSize":3.3333333333333335},{"text":"2","angle":"NaN","fontSize":24.5},{"text":".Prot. N.","angle":"NaN","fontSize":19.5},{"text":"14341","angle":"NaN","fontSize":23.0},{"text":"è stata autorizzata in data","angle":"NaN","fontSize":17.5},{"text":"11-9-19the variante 22-1-1985","angle":"NaN","fontSize":5.0},{"text":"/IV","angle":"NaN","fontSize":33.0},{"text":"-","angle":"NaN","fontSize":3.8333333333333335},{"text":"che il tracciamento delle fondazioni è stato controllato in data","angle":-0.06631453050424571,"fontSize":15.0},{"text":"11-3-1975","angle":-0.6740369111659504,"fontSize":6.25},{"text":"-","angle":-1.4688007335284168,"fontSize":4.0},{"text":"che i lavori sono stati ultimati in data","angle":"NaN","fontSize":16.0},{"text":"2-2-1985","angle":"NaN","fontSize":6.2},{"text":"che la costruzione è stata eseguita in conformità del progetto a suo tempo presentato ed approvato","angle":"NaN","fontSize":35.0},{"text":"\"a \"sensi dell'art. 220 del T. U. delle Leggi Sanitarie 27 luglio 1934, n. 1265, e con la osservanza delle","angle":"NaN","fontSize":7.0},{"text":"Norme dettate dal vigente Regolamento Edilizio Comunale, e del Piano Regolatore Generale; visto gli artt. 221 e 226 del T. U. delle leggi Sanitarie sopracitate;","angle":-0.044243835555330215,"fontSize":14.833333333333334},{"text":"visto l'avvenuto deposito del collaudo all'Ufficio GENIO CIVILE di Treviso","angle":-0.17014287383635207,"fontSize":31.0},{"text":"1","angle":"NaN","fontSize":36.0},{"text":"in data 12-1979 N 1149","angle":-0.998715928080929,"fontSize":3.4545454545454546},{"text":"per le opere in conglomerato cementizio di cui alla Legge 5 novembre 1971, n. 1086;","angle":-0.23385901574576368,"fontSize":10.333333333333334},{"text":"AUTORIZZA","angle":"NaN","fontSize":36.0},{"text":"l'agibilità della stalla","angle":-1.8119159997811651,"fontSize":22.5},{"text":"7-2-1985","angle":"NaN","fontSize":5.181818181818182},{"text":"fabitabilità del fabbricato sopradescritto,per tutti gli effetti di legge alla data","angle":"NaN","fontSize":16.5},{"text":"Landha","angle":-3.7826452885277027,"fontSize":37.0},{"text":"N. C.","angle":-1.8676788208935906,"fontSize":15.0},{"text":"the Hliler","angle":"NaN","fontSize":89.5}]
+[
+  {
+    "text": "COMUNE DI CONEGLIANO PROVINCIA DI TREVISO",
+    "angle": 0.2526252624205894,
+    "fontSize": 46.5
+  },
+  {
+    "text": "N. 20",
+    "angle": -0.9240453252387837,
+    "fontSize": 13.25
+  },
+  {
+    "text": "Conegliano,",
+    "angle": 0.7392593440490409,
+    "fontSize": 37.0
+  },
+  {
+    "text": "11 marzo 1985",
+    "angle": -0.49391689677886313,
+    "fontSize": 26.0
+  },
+  {
+    "text": "CERTIFICATO DI ABITABILITA'",
+    "angle": 0.0,
+    "fontSize": 73.0
+  },
+  {
+    "text": "visto l' art. 107 e seguenti del vigente Regolamento Comunale d' Igiene",
+    "angle": 0.0,
+    "fontSize": 13.33
+  },
+  {
+    "text": "visto il certificato rilasciato ·dall' Ufficiale sanitario in data",
+    "angle": 0.0,
+    "fontSize": 18.0
+  },
+  {
+    "text": "7-2-1985",
+    "angle": 0.6389599053386028,
+    "fontSize": 4.73
+  },
+  {
+    "text": "-",
+    "angle": 0.0,
+    "fontSize": 3.5
+  },
+  {
+    "text": "udito il parere dell' Ingegnere Comunale",
+    "angle": -0.09844626109335827,
+    "fontSize": 40.0
+  },
+  {
+    "text": "IL SINDACO . DICHIARA E CERTIFICA",
+    "angle": 0.0,
+    "fontSize": 29.33
+  },
+  {
+    "text": "- che.",
+    "angle": -1.1344216130209883,
+    "fontSize": 3.25
+  },
+  {
+    "text": "la costruzione.",
+    "angle": 0.0,
+    "fontSize": 31.0
+  },
+  {
+    "text": "del fabbricato",
+    "angle": 0.0,
+    "fontSize": 30.0
+  },
+  {
+    "text": "ad uso",
+    "angle": 0.5787255650688186,
+    "fontSize": 33.0
+  },
+  {
+    "text": "stalla",
+    "angle": -0.9191047483396734,
+    "fontSize": 43.0
+  },
+  {
+    "text": "sito in Via",
+    "angle": -0.41219275080716594,
+    "fontSize": 30.0
+  },
+  {
+    "text": "Dei Colli",
+    "angle": -1.056997736236573,
+    "fontSize": 53.0
+  },
+  {
+    "text": "civico N.",
+    "angle": -1.6723943478577068,
+    "fontSize": 16.0
+  },
+  {
+    "text": "di proprietà della Ditta",
+    "angle": -0.3614827787942639,
+    "fontSize": 36.0
+  },
+  {
+    "text": "BORTOT LUIGINA",
+    "angle": -0.10830947568856193,
+    "fontSize": 53.0
+  },
+  {
+    "text": "composto di piani",
+    "angle": -0.4715595398036487,
+    "fontSize": 35.0
+  },
+  {
+    "text": "2",
+    "angle": 3.814075032622728,
+    "fontSize": 25.0
+  },
+  {
+    "text": "abitazioni N.",
+    "angle": -0.3390243288717212,
+    "fontSize": 15.0
+  },
+  {
+    "text": "-",
+    "angle": -6.115503626577114,
+    "fontSize": 5.33
+  },
+  {
+    "text": "vani utili - STALLA E FIENILE",
+    "angle": -0.6930602820584527,
+    "fontSize": 8.38
+  },
+  {
+    "text": "altri vani",
+    "angle": 0.0,
+    "fontSize": 35.0
+  },
+  {
+    "text": "negozi con accessori·",
+    "angle": -0.3845296613750583,
+    "fontSize": 30.0
+  },
+  {
+    "text": "vani accessori",
+    "angle": -0.6193897182150901,
+    "fontSize": 26.0
+  },
+  {
+    "text": "-",
+    "angle": -5.527539987942875,
+    "fontSize": 3.33
+  },
+  {
+    "text": "2",
+    "angle": 1.3322198489085215,
+    "fontSize": 24.5
+  },
+  {
+    "text": ".Prot. N.",
+    "angle": 0.0,
+    "fontSize": 19.5
+  },
+  {
+    "text": "14341",
+    "angle": -0.3649363411684737,
+    "fontSize": 23.0
+  },
+  {
+    "text": "è stata autorizzata in data",
+    "angle": 0.0,
+    "fontSize": 17.5
+  },
+  {
+    "text": "11-9-19the variante 22-1-1985",
+    "angle": 0.17521591073906814,
+    "fontSize": 5.0
+  },
+  {
+    "text": "/IV",
+    "angle": 0.0,
+    "fontSize": 33.0
+  },
+  {
+    "text": "-",
+    "angle": 0.0,
+    "fontSize": 3.83
+  },
+  {
+    "text": "che il tracciamento delle fondazioni è stato controllato in data",
+    "angle": -0.13262888334030673,
+    "fontSize": 15.0
+  },
+  {
+    "text": "11-3-1975",
+    "angle": -0.4493694752821258,
+    "fontSize": 6.25
+  },
+  {
+    "text": "-",
+    "angle": 0.0,
+    "fontSize": 4.0
+  },
+  {
+    "text": "che i lavori sono stati ultimati in data",
+    "angle": -0.10669592921889415,
+    "fontSize": 16.0
+  },
+  {
+    "text": "2-2-1985",
+    "angle": 0.8456327659563808,
+    "fontSize": 6.2
+  },
+  {
+    "text": "che la costruzione è stata eseguita in conformità del progetto a suo tempo presentato ed approvato",
+    "angle": 0.120537933425145,
+    "fontSize": 35.0
+  },
+  {
+    "text": "\"a \"sensi dell'art. 220 del T. U. delle Leggi Sanitarie 27 luglio 1934, n. 1265, e con la osservanza delle",
+    "angle": 0.0,
+    "fontSize": 7.0
+  },
+  {
+    "text": "Norme dettate dal vigente Regolamento Edilizio Comunale, e del Piano Regolatore Generale; visto gli artt. 221 e 226 del T. U. delle leggi Sanitarie sopracitate;",
+    "angle": -0.044243835555330215,
+    "fontSize": 14.83
+  },
+  {
+    "text": "visto l'avvenuto deposito del collaudo all'Ufficio GENIO CIVILE di Treviso",
+    "angle": -0.17014287383635207,
+    "fontSize": 31.0
+  },
+  {
+    "text": "1",
+    "angle": 0.0,
+    "fontSize": 36.0
+  },
+  {
+    "text": "in data 12-1979 N 1149",
+    "angle": -0.998715928080929,
+    "fontSize": 3.45
+  },
+  {
+    "text": "per le opere in conglomerato cementizio di cui alla Legge 5 novembre 1971, n. 1086;",
+    "angle": -0.23385901574576368,
+    "fontSize": 10.33
+  },
+  {
+    "text": "AUTORIZZA",
+    "angle": 0.0,
+    "fontSize": 36.0
+  },
+  {
+    "text": "l'agibilità della stalla",
+    "angle": -1.8119159997811651,
+    "fontSize": 22.5
+  },
+  {
+    "text": "7-2-1985",
+    "angle": 0.24803212792550755,
+    "fontSize": 5.18
+  },
+  {
+    "text": "fabitabilità del fabbricato sopradescritto,per tutti gli effetti di legge alla data",
+    "angle": 0.0,
+    "fontSize": 16.5
+  },
+  {
+    "text": "Landha",
+    "angle": -3.7826452885277027,
+    "fontSize": 37.0
+  },
+  {
+    "text": "N. C.",
+    "angle": -1.8676788208935906,
+    "fontSize": 15.0
+  },
+  {
+    "text": "the Hliler",
+    "angle": 1.4086287633141297,
+    "fontSize": 89.5
+  }
+]
