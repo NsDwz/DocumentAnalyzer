@@ -79,21 +79,12 @@ public class DocumentRecognizerService
     {
         PointF lowLeft = boundingBox.First(); 
         PointF lowRight = boundingBox.Last();
-
-        foreach (var point in boundingBox)
-        {
-            if ( point.Y < lowLeft.Y && point.X <= lowLeft.X )
-            {
-                lowLeft = point;
-            }
-
-            if (point.Y < lowRight.Y && point.X >= lowRight.X)
-            {
-                lowRight = point;
-            }
-        }
         
-        return new List<PointF>(){lowLeft, lowRight};
+        List<PointF> list = boundingBox.ToList().OrderByDescending(point => point.Y).ToList().Take(2).ToList();
+
+        list = list.OrderBy(point => point.X).ToList();
+
+        return list;
     }
     private Double getInclinationAngle(IReadOnlyList<PointF> boundingBox)
     {
