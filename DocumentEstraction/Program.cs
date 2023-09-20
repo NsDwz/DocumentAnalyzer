@@ -1,50 +1,55 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using AIBasedServises;
+using Azure.AI.FormRecognizer.DocumentAnalysis;
+using Newtonsoft.Json;
 
+const int LIMIT = 50;
+var analyzer = new DocumentRecognizerService("https://firststep.cognitiveservices.azure.com/", "0b6f1a4ed5a943a1a31f3b2a10c85031");
+string outputDirName = "AI/OCR_processed/";
+string inputDirName = "CO1000001_01_A4INPUT";
 
-
-if (args.Length == 1)
+try
 {
-    string path = args[0];
-    
-    var analizer = new DocumentRecognizerService("https://firststep.cognitiveservices.azure.com/", "0b6f1a4ed5a943a1a31f3b2a10c85031");
-    string outPath = "OutputFiles/result.json";
-    string outKeyValuePath = "resultKeyValue.json";
+    var txtFiles = Directory.EnumerateFiles(inputDirName);
 
-
-    using (FileStream fileStream = new FileStream(path, FileMode.Open, FileAccess.Read))
+    int count = 0;
+    foreach (string currentFile in txtFiles)
     {
-
-        using (StreamWriter outputFile = new StreamWriter(outPath))
+        using (FileStream fileStream = new FileStream(currentFile, FileMode.Open, FileAccess.Read))
         {
 
-            var jsonString = analizer.ExtractDocumentInformation(fileStream);
-            outputFile.Write(jsonString);
+            AnalyzeResult result = analyzer.ExtractDocumentInformationUsingModel(fileStream, "prebuilt-layout");
+
+            //JSON file
+            using (StreamWriter outputFile = new StreamWriter(outputDirName + Path.GetFileNameWithoutExtension(currentFile) + ".json", false))
+            {
+                var jsonString = JsonConvert.SerializeObject(result, Formatting.Indented);
+                outputFile.Write(jsonString);
+            }
+
+            //Plain Txt
+            using (StreamWriter outputFile = new StreamWriter(outputDirName + Path.GetFileNameWithoutExtension(currentFile) + ".txt", false))
+            {
+
+                string content = result.Content;
+                outputFile.Write(content);
+            }
+
+            //Processed
+            using (StreamWriter outputFile = new StreamWriter(outputDirName + Path.GetFileNameWithoutExtension(currentFile) + ".ocrProcessed.json", false))
+            {
+                string jsonString = JsonConvert.SerializeObject(analyzer.GetOcrProcessed(result), Formatting.Indented);
+                outputFile.Write(jsonString);
+            }
+
         }
+        if (++count == LIMIT)
+            break;
     }
-
-    using (FileStream fileStream = new FileStream(path, FileMode.Open, FileAccess.Read))
-    {
-
-        using (StreamWriter outputFile = new StreamWriter(outKeyValuePath))
-        {
-
-            var jsonString = analizer.ExtractDocumentKeyValueInformation(fileStream);
-            outputFile.Write(jsonString);
-        }
-    }
-
 
 }
-else
+catch(Exception e)
 {
-    Console.WriteLine("Please specify one and only one document");
+    Console.WriteLine(e.Message);
 }
-
-
-
-
-
-// analizer.ExtractDocumentInformationFromURI(
-//     "https://wcblind.org/wp-content/uploads/2020/04/a-wi-real-id-with-a-star-in-the-upper-right-.jpeg");

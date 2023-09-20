@@ -19,24 +19,18 @@ public class DocumentRecognizerService
     }
 
     public string ExtractDocumentInformation(Stream fs)
-    {
-        
+    {   
         AnalyzeResult result = ExtractDocumentInformationUsingModel(fs, "prebuilt-layout");
-        
-        
-        return JsonNet.Serialize(result);
+        return Newtonsoft.Json.JsonConvert.SerializeObject(result);
     }
     
     public string ExtractDocumentKeyValueInformation(Stream fs)
     {
-        
         AnalyzeResult result = ExtractDocumentInformationUsingModel(fs, "prebuilt-document");;
-        
-        
-        return JsonNet.Serialize(result);
+        return Newtonsoft.Json.JsonConvert.SerializeObject(result);
     }
     
-    private AnalyzeResult ExtractDocumentInformationUsingModel(Stream fs, string model)
+    public AnalyzeResult ExtractDocumentInformationUsingModel(Stream fs, string model)
     {
         AnalyzeDocumentOperation operation = _client.AnalyzeDocument(WaitUntil.Completed, model, fs);
         AnalyzeResult result = operation.Value;
@@ -65,20 +59,21 @@ public class DocumentRecognizerService
                 Console.WriteLine($"    Angle = {getInclinationAngle(line.BoundingPolygon)}");
             }
         }
-
-        DocumentModel extractor = new DocumentModel(result);
-        
-        int count = 0;
-        foreach (DocumentParagraph paragraph in result.Paragraphs)
-        {
-            
-            Console.WriteLine($"------------------------------- PARAGRAPH FONT SIZE --------------------------------------");
-            Console.WriteLine($"Paragraph {++count} has a font size of {extractor.GetFontSize(paragraph)}");
-        }
-
         return result;
     }
 
+    public List<OcrProcessed> GetOcrProcessed(AnalyzeResult result)
+    {
+        List<OcrProcessed> list = new List<OcrProcessed>();
+        DocumentModel model = new DocumentModel(result);
+
+        foreach(DocumentParagraph p in result.Paragraphs)
+        {
+            OcrProcessed processed = new(p.Content, getInclinationAngle(p.BoundingRegions[0].BoundingPolygon), model.GetFontSize(p));
+            list.Add(processed);
+        }
+        return list;
+    }
 
     private IReadOnlyList<PointF> getTheLowerLine(IReadOnlyList<PointF> boundingBox)
     {
@@ -125,7 +120,5 @@ public class DocumentRecognizerService
         {
             Console.WriteLine("Test " + result.Pages.Count);
         }
-    }
-    
-    
+    }   
 }

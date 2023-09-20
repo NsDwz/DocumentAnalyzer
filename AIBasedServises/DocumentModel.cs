@@ -16,12 +16,12 @@ namespace AIBasedServises
         public double GetFontSize(DocumentParagraph p)
         {
             
-            int paragraphWidth =  Math.Abs(((int)p.BoundingRegions[0].BoundingPolygon[1].Y) - ((int)p.BoundingRegions[0].BoundingPolygon[0].Y));
+            double paragraphWidth =  Math.Abs((p.BoundingRegions[0].BoundingPolygon[2].Y) - (p.BoundingRegions[0].BoundingPolygon[0].Y));
             int lineCount = GetLineCount(p);
 
             double fontSize = paragraphWidth / lineCount;
 
-            return fontSize;
+            return Math.Round(fontSize, 2, MidpointRounding.AwayFromZero); ;
         }
 
 

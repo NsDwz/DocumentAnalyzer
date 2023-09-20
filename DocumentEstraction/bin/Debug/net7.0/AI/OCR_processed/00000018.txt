@@ -1,0 +1,26 @@
+Comune di Conegliano
+NUM. PRATICA
+ANNO PRATICA
+COGNOME
+NOME
+VIA/CIVICO
+FOGLIO
+MAPP
+TIPO DOCUMENTO
+1
+DOCUMENTI INIZIALI
+2
+GRAFICI
+3
+DOCUMENTI VARI
+4 FOTO
+5
+CATASTO
+6
+RELAZIONI
+7 PRATICA SISMICA
+8
+GRAFICI SISMICA
+X
+9 DOCUMENTI FINALI
+990010099 :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :selected:

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\DocumentAnalyzer\\AIBasedServises\\AIBasedServises.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\DocumentAnalyzer\\AIBasedServises\\AIBasedServises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\DocumentAnalyzer\\AIBasedServises\\AIBasedServises.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\DocumentAnalyzer\\AIBasedServises\\AIBasedServises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\DocumentAnalyzer\\AIBasedServises\\AIBasedServises.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\DocumentAnalyzer\\AIBasedServises\\AIBasedServises.csproj",
         "projectName": "AIBasedServises",
-        "projectPath": "C:\\Users\\User\\source\\repos\\DocumentAnalyzer\\AIBasedServises\\AIBasedServises.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\DocumentAnalyzer\\AIBasedServises\\AIBasedServises.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\DocumentAnalyzer\\AIBasedServises\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\DocumentAnalyzer\\AIBasedServises\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
             "Json.Net": {
               "target": "Package",
               "version": "[1.0.33, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [

@@ -1,0 +1,33 @@
+Comune di Conegliano
+NUM. PRATICA
+34
+ANNO PRATICA
+1974
+COGNOME
+BORTOT
+NOME
+LUIGINA
+VIA/CIVICO
+VIA DEI COLLI 1 52
+FOGLIO
+B.1 MAPP
+66
+TIPO DOCUMENTO
+X
+1
+DOCUMENTI INIZIALI
+2 GRAFICI
+3
+DOCUMENTI VARI
+4
+FOTO
+5
+CATASTO
+6
+RELAZIONI
+7
+PRATICA SISMICA
+8
+GRAFICI SISMICA
+9 DOCUMENTI FINALI
+990010099 :selected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected:
