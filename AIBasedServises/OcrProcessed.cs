@@ -11,16 +11,26 @@ namespace AIBasedServises
     {
         [JsonProperty]
         private string text;
+        
         [JsonProperty]
         private double angle;
+        
         [JsonProperty]
         private double fontSize;
 
-        public OcrProcessed(string text, double angle, double fontSize)
+        [JsonProperty]
+        private bool hasHandWrittings;
+
+        [JsonProperty] 
+        private string handWrittings;
+
+        public OcrProcessed(string text, double angle, double fontSize, bool hasHandWrittings, string handWrittings)
         {
             this.text = text;
             this.angle = angle;
             this.fontSize = fontSize;
+            this.hasHandWrittings = hasHandWrittings;
+            this.handWrittings = handWrittings;
         }
 
     }
