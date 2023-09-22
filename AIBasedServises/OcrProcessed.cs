@@ -24,13 +24,24 @@ namespace AIBasedServises
         [JsonProperty] 
         private string handWrittings;
 
-        public OcrProcessed(string text, double angle, double fontSize, bool hasHandWrittings, string handWrittings)
+        [JsonProperty] 
+        private string fontType;
+
+        public OcrProcessed(
+            string text, 
+            double angle, 
+            double fontSize, 
+            bool hasHandWrittings, 
+            string handWrittings,
+            string fontType
+            )
         {
             this.text = text;
             this.angle = angle;
             this.fontSize = fontSize;
             this.hasHandWrittings = hasHandWrittings;
             this.handWrittings = handWrittings;
+            this.fontType = fontType;
         }
 
     }

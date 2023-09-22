@@ -85,8 +85,7 @@ public class DocumentRecognizerService
         {
             bool doesContainHadWritting = false;
             string hasWritting = "";
-
-
+            
             foreach (var paragraphSpan in p.Spans)
             {
                 bool isSpanHadWritten = handWritten.Exists(x => x.Index == paragraphSpan.Index);
@@ -100,13 +99,16 @@ public class DocumentRecognizerService
             }
 
             hasWritting = Regex.Replace(hasWritting, "^\\|", "");
-            
+
+            var fontSize = model.GetFontSize(p);
+
             OcrProcessed processed = new(
                 p.Content,
                 getInclinationAngle(p.BoundingRegions[0].BoundingPolygon),
-                model.GetFontSize(p),
+                fontSize,
                 doesContainHadWritting,
-                hasWritting
+                hasWritting,
+                fontType: FontClassifierService.ClassifyFontSize(fontSize)
             );
             list.Add(processed);
         }

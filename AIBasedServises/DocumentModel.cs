@@ -6,16 +6,13 @@ namespace AIBasedServises
     {
         private AnalyzeResult result;
 
-
         public DocumentModel(AnalyzeResult result)
         {
             this.result = result;
         }
 
-
         public double GetFontSize(DocumentParagraph p)
         {
-            
             double paragraphWidth =  Math.Abs((p.BoundingRegions[0].BoundingPolygon[2].Y) - (p.BoundingRegions[0].BoundingPolygon[0].Y));
             int lineCount = GetLineCount(p);
 
