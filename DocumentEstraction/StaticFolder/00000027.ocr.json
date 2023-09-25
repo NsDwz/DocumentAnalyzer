@@ -1,0 +1,325 @@
+{
+  "ModelId": "prebuilt-layout",
+  "Content": "8800104676\nSOSTITUTO\nTAVOLA",
+  "Pages": [
+    {
+      "Unit": 0,
+      "PageNumber": 1,
+      "Angle": -0.4915,
+      "Width": 1731.0,
+      "Height": 2342.0,
+      "Spans": [
+        {
+          "Index": 0,
+          "Length": 27
+        }
+      ],
+      "Words": [
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 657.0,
+              "Y": 484.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1054.0,
+              "Y": 481.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1055.0,
+              "Y": 534.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 657.0,
+              "Y": 537.0
+            }
+          ],
+          "Content": "8800104676",
+          "Span": {
+            "Index": 0,
+            "Length": 10
+          },
+          "Confidence": 0.991
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 511.0,
+              "Y": 837.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 908.0,
+              "Y": 835.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 911.0,
+              "Y": 884.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 510.0,
+              "Y": 887.0
+            }
+          ],
+          "Content": "SOSTITUTO",
+          "Span": {
+            "Index": 11,
+            "Length": 9
+          },
+          "Confidence": 0.995
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 979.0,
+              "Y": 834.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1238.0,
+              "Y": 832.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1239.0,
+              "Y": 881.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 980.0,
+              "Y": 884.0
+            }
+          ],
+          "Content": "TAVOLA",
+          "Span": {
+            "Index": 21,
+            "Length": 6
+          },
+          "Confidence": 0.997
+        }
+      ],
+      "SelectionMarks": [],
+      "Lines": [
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 656.0,
+              "Y": 484.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1064.0,
+              "Y": 480.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1064.0,
+              "Y": 533.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 656.0,
+              "Y": 536.0
+            }
+          ],
+          "Content": "8800104676",
+          "Spans": [
+            {
+              "Index": 0,
+              "Length": 10
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 510.0,
+              "Y": 837.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 937.0,
+              "Y": 834.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 937.0,
+              "Y": 883.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 510.0,
+              "Y": 886.0
+            }
+          ],
+          "Content": "SOSTITUTO",
+          "Spans": [
+            {
+              "Index": 11,
+              "Length": 9
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 976.0,
+              "Y": 833.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1260.0,
+              "Y": 831.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1261.0,
+              "Y": 880.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 977.0,
+              "Y": 883.0
+            }
+          ],
+          "Content": "TAVOLA",
+          "Spans": [
+            {
+              "Index": 21,
+              "Length": 6
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Paragraphs": [
+    {
+      "Role": {},
+      "Content": "8800104676",
+      "BoundingRegions": [
+        {
+          "PageNumber": 1,
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 656.0,
+              "Y": 483.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1064.0,
+              "Y": 480.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1064.0,
+              "Y": 533.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 656.0,
+              "Y": 536.0
+            }
+          ]
+        }
+      ],
+      "Spans": [
+        {
+          "Index": 0,
+          "Length": 10
+        }
+      ]
+    },
+    {
+      "Role": null,
+      "Content": "SOSTITUTO",
+      "BoundingRegions": [
+        {
+          "PageNumber": 1,
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 510.0,
+              "Y": 837.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 937.0,
+              "Y": 834.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 937.0,
+              "Y": 883.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 510.0,
+              "Y": 886.0
+            }
+          ]
+        }
+      ],
+      "Spans": [
+        {
+          "Index": 11,
+          "Length": 9
+        }
+      ]
+    },
+    {
+      "Role": null,
+      "Content": "TAVOLA",
+      "BoundingRegions": [
+        {
+          "PageNumber": 1,
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 976.0,
+              "Y": 833.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1260.0,
+              "Y": 830.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1261.0,
+              "Y": 880.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 977.0,
+              "Y": 883.0
+            }
+          ]
+        }
+      ],
+      "Spans": [
+        {
+          "Index": 21,
+          "Length": 6
+        }
+      ]
+    }
+  ],
+  "Tables": [],
+  "KeyValuePairs": [],
+  "Styles": [],
+  "Languages": [],
+  "Documents": []
+}

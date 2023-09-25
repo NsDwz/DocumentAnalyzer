@@ -1,0 +1,3317 @@
+{
+  "ModelId": "prebuilt-layout",
+  "Content": "4)\nIl concessionario, il Direttore dei lavori e l'assuntore dei lavori sono responsabili di ogni eventuale inosservanza così delle nor- me di legge e dei regolamenti come delle modalità esecutive fissate nel la presente concessione.\nAlla presente si allegano in restituzione, un esemplare di cia- scuno dei disegni presentati in duplice copia, debitamente vistati.\nConegliano, li 22. gennaio. 1985.\nal\nConegliano 7\nUfficio\nIl sottoscritto dichiara di ritirare\n29 GEN. 1985\nla presente concessione oggi addì .. x De Werfin. ..",
+  "Pages": [
+    {
+      "Unit": 0,
+      "PageNumber": 1,
+      "Angle": 0.02123639,
+      "Width": 1646.0,
+      "Height": 2494.0,
+      "Spans": [
+        {
+          "Index": 0,
+          "Length": 525
+        }
+      ],
+      "Words": [
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1471.0,
+              "Y": 99.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1499.0,
+              "Y": 102.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1495.0,
+              "Y": 132.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1467.0,
+              "Y": 128.0
+            }
+          ],
+          "Content": "4)",
+          "Span": {
+            "Index": 0,
+            "Length": 2
+          },
+          "Confidence": 0.997
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 252.0,
+              "Y": 221.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 289.0,
+              "Y": 221.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 289.0,
+              "Y": 253.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 253.0,
+              "Y": 253.0
+            }
+          ],
+          "Content": "Il",
+          "Span": {
+            "Index": 3,
+            "Length": 2
+          },
+          "Confidence": 0.886
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 309.0,
+              "Y": 221.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 615.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 616.0,
+              "Y": 254.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 310.0,
+              "Y": 253.0
+            }
+          ],
+          "Content": "concessionario,",
+          "Span": {
+            "Index": 6,
+            "Length": 15
+          },
+          "Confidence": 0.993
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 633.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 672.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 673.0,
+              "Y": 255.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 634.0,
+              "Y": 254.0
+            }
+          ],
+          "Content": "il",
+          "Span": {
+            "Index": 22,
+            "Length": 2
+          },
+          "Confidence": 0.997
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 688.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 875.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 876.0,
+              "Y": 255.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 689.0,
+              "Y": 255.0
+            }
+          ],
+          "Content": "Direttore",
+          "Span": {
+            "Index": 25,
+            "Length": 9
+          },
+          "Confidence": 0.993
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 893.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 954.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 955.0,
+              "Y": 255.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 894.0,
+              "Y": 255.0
+            }
+          ],
+          "Content": "dei",
+          "Span": {
+            "Index": 35,
+            "Length": 3
+          },
+          "Confidence": 0.998
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 975.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1098.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1098.0,
+              "Y": 255.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 975.0,
+              "Y": 255.0
+            }
+          ],
+          "Content": "lavori",
+          "Span": {
+            "Index": 39,
+            "Length": 6
+          },
+          "Confidence": 0.996
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1118.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1137.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1138.0,
+              "Y": 255.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1118.0,
+              "Y": 255.0
+            }
+          ],
+          "Content": "e",
+          "Span": {
+            "Index": 46,
+            "Length": 1
+          },
+          "Confidence": 0.994
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1158.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1380.0,
+              "Y": 222.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1380.0,
+              "Y": 254.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1158.0,
+              "Y": 255.0
+            }
+          ],
+          "Content": "l'assuntore",
+          "Span": {
+            "Index": 48,
+            "Length": 11
+          },
+          "Confidence": 0.903
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1400.0,
+              "Y": 222.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1461.0,
+              "Y": 222.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1462.0,
+              "Y": 254.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1400.0,
+              "Y": 254.0
+            }
+          ],
+          "Content": "dei",
+          "Span": {
+            "Index": 60,
+            "Length": 3
+          },
+          "Confidence": 0.998
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 71.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 191.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 191.0,
+              "Y": 294.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 70.0,
+              "Y": 294.0
+            }
+          ],
+          "Content": "lavori",
+          "Span": {
+            "Index": 64,
+            "Length": 6
+          },
+          "Confidence": 0.993
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 210.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 290.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 290.0,
+              "Y": 294.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 209.0,
+              "Y": 294.0
+            }
+          ],
+          "Content": "sono",
+          "Span": {
+            "Index": 71,
+            "Length": 4
+          },
+          "Confidence": 0.991
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 309.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 552.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 552.0,
+              "Y": 295.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 309.0,
+              "Y": 294.0
+            }
+          ],
+          "Content": "responsabili",
+          "Span": {
+            "Index": 76,
+            "Length": 12
+          },
+          "Confidence": 0.979
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 570.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 615.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 615.0,
+              "Y": 295.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 570.0,
+              "Y": 295.0
+            }
+          ],
+          "Content": "di",
+          "Span": {
+            "Index": 89,
+            "Length": 2
+          },
+          "Confidence": 0.997
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 631.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 714.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 714.0,
+              "Y": 295.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 631.0,
+              "Y": 295.0
+            }
+          ],
+          "Content": "ogni",
+          "Span": {
+            "Index": 92,
+            "Length": 4
+          },
+          "Confidence": 0.987
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 735.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 914.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 915.0,
+              "Y": 295.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 735.0,
+              "Y": 295.0
+            }
+          ],
+          "Content": "eventuale",
+          "Span": {
+            "Index": 97,
+            "Length": 9
+          },
+          "Confidence": 0.994
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 935.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1178.0,
+              "Y": 261.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1179.0,
+              "Y": 295.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 936.0,
+              "Y": 295.0
+            }
+          ],
+          "Content": "inosservanza",
+          "Span": {
+            "Index": 107,
+            "Length": 12
+          },
+          "Confidence": 0.992
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1197.0,
+              "Y": 261.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1277.0,
+              "Y": 261.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1279.0,
+              "Y": 295.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1198.0,
+              "Y": 295.0
+            }
+          ],
+          "Content": "così",
+          "Span": {
+            "Index": 120,
+            "Length": 4
+          },
+          "Confidence": 0.967
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1298.0,
+              "Y": 261.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1399.0,
+              "Y": 261.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1401.0,
+              "Y": 295.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1300.0,
+              "Y": 295.0
+            }
+          ],
+          "Content": "delle",
+          "Span": {
+            "Index": 125,
+            "Length": 5
+          },
+          "Confidence": 0.997
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1417.0,
+              "Y": 261.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1500.0,
+              "Y": 261.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1502.0,
+              "Y": 295.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1419.0,
+              "Y": 295.0
+            }
+          ],
+          "Content": "nor-",
+          "Span": {
+            "Index": 131,
+            "Length": 4
+          },
+          "Confidence": 0.988
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 69.0,
+              "Y": 300.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 112.0,
+              "Y": 300.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 111.0,
+              "Y": 336.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 68.0,
+              "Y": 337.0
+            }
+          ],
+          "Content": "me",
+          "Span": {
+            "Index": 136,
+            "Length": 2
+          },
+          "Confidence": 0.997
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 129.0,
+              "Y": 300.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 171.0,
+              "Y": 300.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 170.0,
+              "Y": 336.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 128.0,
+              "Y": 336.0
+            }
+          ],
+          "Content": "di",
+          "Span": {
+            "Index": 139,
+            "Length": 2
+          },
+          "Confidence": 0.997
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 187.0,
+              "Y": 300.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 290.0,
+              "Y": 299.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 289.0,
+              "Y": 335.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 187.0,
+              "Y": 336.0
+            }
+          ],
+          "Content": "legge",
+          "Span": {
+            "Index": 142,
+            "Length": 5
+          },
+          "Confidence": 0.996
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 309.0,
+              "Y": 299.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 330.0,
+              "Y": 299.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 329.0,
+              "Y": 335.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 309.0,
+              "Y": 335.0
+            }
+          ],
+          "Content": "e",
+          "Span": {
+            "Index": 148,
+            "Length": 1
+          },
+          "Confidence": 0.994
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 349.0,
+              "Y": 299.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 412.0,
+              "Y": 299.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 411.0,
+              "Y": 335.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 348.0,
+              "Y": 335.0
+            }
+          ],
+          "Content": "dei",
+          "Span": {
+            "Index": 150,
+            "Length": 3
+          },
+          "Confidence": 0.998
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 433.0,
+              "Y": 299.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 655.0,
+              "Y": 299.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 655.0,
+              "Y": 334.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 433.0,
+              "Y": 335.0
+            }
+          ],
+          "Content": "regolamenti",
+          "Span": {
+            "Index": 154,
+            "Length": 11
+          },
+          "Confidence": 0.993
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 672.0,
+              "Y": 299.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 756.0,
+              "Y": 299.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 755.0,
+              "Y": 334.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 672.0,
+              "Y": 334.0
+            }
+          ],
+          "Content": "come",
+          "Span": {
+            "Index": 166,
+            "Length": 4
+          },
+          "Confidence": 0.987
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 775.0,
+              "Y": 299.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 875.0,
+              "Y": 299.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 875.0,
+              "Y": 334.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 775.0,
+              "Y": 334.0
+            }
+          ],
+          "Content": "delle",
+          "Span": {
+            "Index": 171,
+            "Length": 5
+          },
+          "Confidence": 0.997
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 892.0,
+              "Y": 299.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1058.0,
+              "Y": 300.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1058.0,
+              "Y": 335.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 892.0,
+              "Y": 334.0
+            }
+          ],
+          "Content": "modalità",
+          "Span": {
+            "Index": 177,
+            "Length": 8
+          },
+          "Confidence": 0.994
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1077.0,
+              "Y": 300.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1262.0,
+              "Y": 300.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1261.0,
+              "Y": 336.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1077.0,
+              "Y": 335.0
+            }
+          ],
+          "Content": "esecutive",
+          "Span": {
+            "Index": 186,
+            "Length": 9
+          },
+          "Confidence": 0.993
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1281.0,
+              "Y": 300.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1423.0,
+              "Y": 301.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1423.0,
+              "Y": 337.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1281.0,
+              "Y": 336.0
+            }
+          ],
+          "Content": "fissate",
+          "Span": {
+            "Index": 196,
+            "Length": 7
+          },
+          "Confidence": 0.996
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1440.0,
+              "Y": 301.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1503.0,
+              "Y": 301.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1503.0,
+              "Y": 338.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1440.0,
+              "Y": 338.0
+            }
+          ],
+          "Content": "nel",
+          "Span": {
+            "Index": 204,
+            "Length": 3
+          },
+          "Confidence": 0.993
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 73.0,
+              "Y": 341.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 110.0,
+              "Y": 341.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 109.0,
+              "Y": 375.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 72.0,
+              "Y": 374.0
+            }
+          ],
+          "Content": "la",
+          "Span": {
+            "Index": 208,
+            "Length": 2
+          },
+          "Confidence": 0.957
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 126.0,
+              "Y": 341.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 290.0,
+              "Y": 340.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 289.0,
+              "Y": 376.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 125.0,
+              "Y": 375.0
+            }
+          ],
+          "Content": "presente",
+          "Span": {
+            "Index": 211,
+            "Length": 8
+          },
+          "Confidence": 0.991
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 309.0,
+              "Y": 340.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 554.0,
+              "Y": 339.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 554.0,
+              "Y": 371.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 308.0,
+              "Y": 376.0
+            }
+          ],
+          "Content": "concessione.",
+          "Span": {
+            "Index": 220,
+            "Length": 12
+          },
+          "Confidence": 0.944
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 247.0,
+              "Y": 399.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 330.0,
+              "Y": 399.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 330.0,
+              "Y": 433.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 247.0,
+              "Y": 433.0
+            }
+          ],
+          "Content": "Alla",
+          "Span": {
+            "Index": 233,
+            "Length": 4
+          },
+          "Confidence": 0.984
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 347.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 512.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 512.0,
+              "Y": 433.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 347.0,
+              "Y": 433.0
+            }
+          ],
+          "Content": "presente",
+          "Span": {
+            "Index": 238,
+            "Length": 8
+          },
+          "Confidence": 0.995
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 531.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 573.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 573.0,
+              "Y": 434.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 532.0,
+              "Y": 434.0
+            }
+          ],
+          "Content": "si",
+          "Span": {
+            "Index": 247,
+            "Length": 2
+          },
+          "Confidence": 0.997
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 592.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 753.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 753.0,
+              "Y": 434.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 593.0,
+              "Y": 434.0
+            }
+          ],
+          "Content": "allegano",
+          "Span": {
+            "Index": 250,
+            "Length": 8
+          },
+          "Confidence": 0.995
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 775.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 814.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 814.0,
+              "Y": 434.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 775.0,
+              "Y": 434.0
+            }
+          ],
+          "Content": "in",
+          "Span": {
+            "Index": 259,
+            "Length": 2
+          },
+          "Confidence": 0.998
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 833.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1101.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1102.0,
+              "Y": 435.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 834.0,
+              "Y": 434.0
+            }
+          ],
+          "Content": "restituzione,",
+          "Span": {
+            "Index": 262,
+            "Length": 13
+          },
+          "Confidence": 0.993
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1116.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1157.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1158.0,
+              "Y": 435.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1117.0,
+              "Y": 435.0
+            }
+          ],
+          "Content": "un",
+          "Span": {
+            "Index": 276,
+            "Length": 2
+          },
+          "Confidence": 0.997
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1177.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1361.0,
+              "Y": 399.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1362.0,
+              "Y": 435.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1177.0,
+              "Y": 435.0
+            }
+          ],
+          "Content": "esemplare",
+          "Span": {
+            "Index": 279,
+            "Length": 9
+          },
+          "Confidence": 0.994
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1380.0,
+              "Y": 399.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1422.0,
+              "Y": 399.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1422.0,
+              "Y": 435.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1381.0,
+              "Y": 435.0
+            }
+          ],
+          "Content": "di",
+          "Span": {
+            "Index": 289,
+            "Length": 2
+          },
+          "Confidence": 0.914
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1436.0,
+              "Y": 399.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1520.0,
+              "Y": 399.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1521.0,
+              "Y": 435.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1437.0,
+              "Y": 435.0
+            }
+          ],
+          "Content": "cia-",
+          "Span": {
+            "Index": 292,
+            "Length": 4
+          },
+          "Confidence": 0.988
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 74.0,
+              "Y": 439.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 170.0,
+              "Y": 439.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 170.0,
+              "Y": 472.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 74.0,
+              "Y": 471.0
+            }
+          ],
+          "Content": "scuno",
+          "Span": {
+            "Index": 297,
+            "Length": 5
+          },
+          "Confidence": 0.997
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 187.0,
+              "Y": 439.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 250.0,
+              "Y": 438.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 249.0,
+              "Y": 472.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 186.0,
+              "Y": 472.0
+            }
+          ],
+          "Content": "dei",
+          "Span": {
+            "Index": 303,
+            "Length": 3
+          },
+          "Confidence": 0.998
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 268.0,
+              "Y": 438.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 410.0,
+              "Y": 438.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 410.0,
+              "Y": 473.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 268.0,
+              "Y": 473.0
+            }
+          ],
+          "Content": "disegni",
+          "Span": {
+            "Index": 307,
+            "Length": 7
+          },
+          "Confidence": 0.993
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 429.0,
+              "Y": 438.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 634.0,
+              "Y": 438.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 634.0,
+              "Y": 474.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 428.0,
+              "Y": 473.0
+            }
+          ],
+          "Content": "presentati",
+          "Span": {
+            "Index": 315,
+            "Length": 10
+          },
+          "Confidence": 0.991
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 655.0,
+              "Y": 438.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 693.0,
+              "Y": 438.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 693.0,
+              "Y": 474.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 655.0,
+              "Y": 474.0
+            }
+          ],
+          "Content": "in",
+          "Span": {
+            "Index": 326,
+            "Length": 2
+          },
+          "Confidence": 0.997
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 714.0,
+              "Y": 438.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 856.0,
+              "Y": 438.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 855.0,
+              "Y": 474.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 713.0,
+              "Y": 474.0
+            }
+          ],
+          "Content": "duplice",
+          "Span": {
+            "Index": 329,
+            "Length": 7
+          },
+          "Confidence": 0.996
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 875.0,
+              "Y": 438.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1001.0,
+              "Y": 438.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1000.0,
+              "Y": 474.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 874.0,
+              "Y": 474.0
+            }
+          ],
+          "Content": "copia,",
+          "Span": {
+            "Index": 337,
+            "Length": 6
+          },
+          "Confidence": 0.993
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1017.0,
+              "Y": 438.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1241.0,
+              "Y": 439.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1240.0,
+              "Y": 473.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1017.0,
+              "Y": 473.0
+            }
+          ],
+          "Content": "debitamente",
+          "Span": {
+            "Index": 344,
+            "Length": 11
+          },
+          "Confidence": 0.993
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1261.0,
+              "Y": 439.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1423.0,
+              "Y": 439.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1422.0,
+              "Y": 472.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1261.0,
+              "Y": 473.0
+            }
+          ],
+          "Content": "vistati.",
+          "Span": {
+            "Index": 356,
+            "Length": 8
+          },
+          "Confidence": 0.995
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 65.0,
+              "Y": 577.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 292.0,
+              "Y": 569.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 293.0,
+              "Y": 612.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 64.0,
+              "Y": 613.0
+            }
+          ],
+          "Content": "Conegliano,",
+          "Span": {
+            "Index": 365,
+            "Length": 11
+          },
+          "Confidence": 0.991
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 304.0,
+              "Y": 569.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 350.0,
+              "Y": 568.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 350.0,
+              "Y": 612.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 304.0,
+              "Y": 612.0
+            }
+          ],
+          "Content": "li",
+          "Span": {
+            "Index": 377,
+            "Length": 2
+          },
+          "Confidence": 0.615
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 369.0,
+              "Y": 567.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 424.0,
+              "Y": 566.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 424.0,
+              "Y": 611.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 370.0,
+              "Y": 611.0
+            }
+          ],
+          "Content": "22.",
+          "Span": {
+            "Index": 380,
+            "Length": 3
+          },
+          "Confidence": 0.836
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 432.0,
+              "Y": 566.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 585.0,
+              "Y": 564.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 586.0,
+              "Y": 608.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 433.0,
+              "Y": 611.0
+            }
+          ],
+          "Content": "gennaio.",
+          "Span": {
+            "Index": 384,
+            "Length": 8
+          },
+          "Confidence": 0.863
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 593.0,
+              "Y": 564.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 692.0,
+              "Y": 564.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 693.0,
+              "Y": 605.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 594.0,
+              "Y": 607.0
+            }
+          ],
+          "Content": "1985.",
+          "Span": {
+            "Index": 393,
+            "Length": 5
+          },
+          "Confidence": 0.421
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 928.0,
+              "Y": 688.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 955.0,
+              "Y": 694.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 948.0,
+              "Y": 719.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 922.0,
+              "Y": 713.0
+            }
+          ],
+          "Content": "al",
+          "Span": {
+            "Index": 399,
+            "Length": 2
+          },
+          "Confidence": 0.745
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 989.0,
+              "Y": 704.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1011.0,
+              "Y": 860.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 985.0,
+              "Y": 844.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 961.0,
+              "Y": 720.0
+            }
+          ],
+          "Content": "Conegliano",
+          "Span": {
+            "Index": 402,
+            "Length": 10
+          },
+          "Confidence": 0.666
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1007.0,
+              "Y": 865.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 996.0,
+              "Y": 881.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 972.0,
+              "Y": 861.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 982.0,
+              "Y": 848.0
+            }
+          ],
+          "Content": "7",
+          "Span": {
+            "Index": 413,
+            "Length": 1
+          },
+          "Confidence": 0.124
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 873.0,
+              "Y": 818.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 914.0,
+              "Y": 878.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 877.0,
+              "Y": 903.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 836.0,
+              "Y": 843.0
+            }
+          ],
+          "Content": "Ufficio",
+          "Span": {
+            "Index": 415,
+            "Length": 7
+          },
+          "Confidence": 0.467
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 68.0,
+              "Y": 1010.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 105.0,
+              "Y": 1009.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 105.0,
+              "Y": 1041.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 1041.0
+            }
+          ],
+          "Content": "Il",
+          "Span": {
+            "Index": 423,
+            "Length": 2
+          },
+          "Confidence": 0.91
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 126.0,
+              "Y": 1009.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 368.0,
+              "Y": 1007.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 367.0,
+              "Y": 1043.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 126.0,
+              "Y": 1041.0
+            }
+          ],
+          "Content": "sottoscritto",
+          "Span": {
+            "Index": 426,
+            "Length": 12
+          },
+          "Confidence": 0.992
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 386.0,
+              "Y": 1007.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 550.0,
+              "Y": 1007.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 550.0,
+              "Y": 1043.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 386.0,
+              "Y": 1043.0
+            }
+          ],
+          "Content": "dichiara",
+          "Span": {
+            "Index": 439,
+            "Length": 8
+          },
+          "Confidence": 0.995
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 569.0,
+              "Y": 1007.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 612.0,
+              "Y": 1007.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 611.0,
+              "Y": 1043.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 568.0,
+              "Y": 1043.0
+            }
+          ],
+          "Content": "di",
+          "Span": {
+            "Index": 448,
+            "Length": 2
+          },
+          "Confidence": 0.997
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 630.0,
+              "Y": 1007.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 794.0,
+              "Y": 1008.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 794.0,
+              "Y": 1042.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 630.0,
+              "Y": 1043.0
+            }
+          ],
+          "Content": "ritirare",
+          "Span": {
+            "Index": 451,
+            "Length": 8
+          },
+          "Confidence": 0.994
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 885.0,
+              "Y": 1027.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 940.0,
+              "Y": 1023.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 944.0,
+              "Y": 1072.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 889.0,
+              "Y": 1077.0
+            }
+          ],
+          "Content": "29",
+          "Span": {
+            "Index": 460,
+            "Length": 2
+          },
+          "Confidence": 0.997
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 954.0,
+              "Y": 1022.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1042.0,
+              "Y": 1013.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1047.0,
+              "Y": 1062.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 958.0,
+              "Y": 1071.0
+            }
+          ],
+          "Content": "GEN.",
+          "Span": {
+            "Index": 463,
+            "Length": 4
+          },
+          "Confidence": 0.987
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1052.0,
+              "Y": 1012.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1138.0,
+              "Y": 1001.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1143.0,
+              "Y": 1052.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1057.0,
+              "Y": 1061.0
+            }
+          ],
+          "Content": "1985",
+          "Span": {
+            "Index": 468,
+            "Length": 4
+          },
+          "Confidence": 0.99
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 1070.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 106.0,
+              "Y": 1070.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 106.0,
+              "Y": 1103.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 1103.0
+            }
+          ],
+          "Content": "la",
+          "Span": {
+            "Index": 473,
+            "Length": 2
+          },
+          "Confidence": 0.955
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 123.0,
+              "Y": 1070.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 286.0,
+              "Y": 1068.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 285.0,
+              "Y": 1104.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 122.0,
+              "Y": 1103.0
+            }
+          ],
+          "Content": "presente",
+          "Span": {
+            "Index": 476,
+            "Length": 8
+          },
+          "Confidence": 0.995
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 305.0,
+              "Y": 1068.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 530.0,
+              "Y": 1067.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 530.0,
+              "Y": 1104.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 304.0,
+              "Y": 1104.0
+            }
+          ],
+          "Content": "concessione",
+          "Span": {
+            "Index": 485,
+            "Length": 11
+          },
+          "Confidence": 0.993
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 550.0,
+              "Y": 1067.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 633.0,
+              "Y": 1067.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 633.0,
+              "Y": 1103.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 549.0,
+              "Y": 1104.0
+            }
+          ],
+          "Content": "oggi",
+          "Span": {
+            "Index": 497,
+            "Length": 4
+          },
+          "Confidence": 0.991
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 650.0,
+              "Y": 1067.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 732.0,
+              "Y": 1067.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 732.0,
+              "Y": 1103.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 650.0,
+              "Y": 1103.0
+            }
+          ],
+          "Content": "addì",
+          "Span": {
+            "Index": 502,
+            "Length": 4
+          },
+          "Confidence": 0.983
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 757.0,
+              "Y": 1090.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 774.0,
+              "Y": 1089.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 773.0,
+              "Y": 1139.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 755.0,
+              "Y": 1140.0
+            }
+          ],
+          "Content": "..",
+          "Span": {
+            "Index": 507,
+            "Length": 2
+          },
+          "Confidence": 0.759
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 784.0,
+              "Y": 1088.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 816.0,
+              "Y": 1085.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 815.0,
+              "Y": 1135.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 783.0,
+              "Y": 1138.0
+            }
+          ],
+          "Content": "x",
+          "Span": {
+            "Index": 510,
+            "Length": 1
+          },
+          "Confidence": 0.653
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 836.0,
+              "Y": 1083.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 888.0,
+              "Y": 1079.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 888.0,
+              "Y": 1130.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 836.0,
+              "Y": 1134.0
+            }
+          ],
+          "Content": "De",
+          "Span": {
+            "Index": 512,
+            "Length": 2
+          },
+          "Confidence": 0.067
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 909.0,
+              "Y": 1078.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1076.0,
+              "Y": 1069.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1079.0,
+              "Y": 1118.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 909.0,
+              "Y": 1129.0
+            }
+          ],
+          "Content": "Werfin.",
+          "Span": {
+            "Index": 515,
+            "Length": 7
+          },
+          "Confidence": 0.101
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1086.0,
+              "Y": 1069.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1125.0,
+              "Y": 1068.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1128.0,
+              "Y": 1116.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1089.0,
+              "Y": 1118.0
+            }
+          ],
+          "Content": "..",
+          "Span": {
+            "Index": 523,
+            "Length": 2
+          },
+          "Confidence": 0.058
+        }
+      ],
+      "SelectionMarks": [],
+      "Lines": [
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1470.0,
+              "Y": 99.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1499.0,
+              "Y": 103.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1495.0,
+              "Y": 132.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1466.0,
+              "Y": 129.0
+            }
+          ],
+          "Content": "4)",
+          "Spans": [
+            {
+              "Index": 0,
+              "Length": 2
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 252.0,
+              "Y": 219.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1465.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1465.0,
+              "Y": 254.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 252.0,
+              "Y": 253.0
+            }
+          ],
+          "Content": "Il concessionario, il Direttore dei lavori e l'assuntore dei",
+          "Spans": [
+            {
+              "Index": 3,
+              "Length": 60
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 69.0,
+              "Y": 259.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1506.0,
+              "Y": 260.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1506.0,
+              "Y": 294.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 69.0,
+              "Y": 293.0
+            }
+          ],
+          "Content": "lavori sono responsabili di ogni eventuale inosservanza così delle nor-",
+          "Spans": [
+            {
+              "Index": 64,
+              "Length": 71
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 299.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1508.0,
+              "Y": 300.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1508.0,
+              "Y": 337.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 336.0
+            }
+          ],
+          "Content": "me di legge e dei regolamenti come delle modalità esecutive fissate nel",
+          "Spans": [
+            {
+              "Index": 136,
+              "Length": 71
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 71.0,
+              "Y": 341.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 554.0,
+              "Y": 339.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 555.0,
+              "Y": 373.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 71.0,
+              "Y": 376.0
+            }
+          ],
+          "Content": "la presente concessione.",
+          "Spans": [
+            {
+              "Index": 208,
+              "Length": 24
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 246.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1528.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1528.0,
+              "Y": 434.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 246.0,
+              "Y": 433.0
+            }
+          ],
+          "Content": "Alla presente si allegano in restituzione, un esemplare di cia-",
+          "Spans": [
+            {
+              "Index": 233,
+              "Length": 63
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 73.0,
+              "Y": 437.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1422.0,
+              "Y": 437.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1422.0,
+              "Y": 473.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 73.0,
+              "Y": 472.0
+            }
+          ],
+          "Content": "scuno dei disegni presentati in duplice copia, debitamente vistati.",
+          "Spans": [
+            {
+              "Index": 297,
+              "Length": 67
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 64.0,
+              "Y": 572.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 692.0,
+              "Y": 564.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 693.0,
+              "Y": 605.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 64.0,
+              "Y": 613.0
+            }
+          ],
+          "Content": "Conegliano, li 22. gennaio. 1985.",
+          "Spans": [
+            {
+              "Index": 365,
+              "Length": 33
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 925.0,
+              "Y": 688.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 962.0,
+              "Y": 696.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 954.0,
+              "Y": 721.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 919.0,
+              "Y": 711.0
+            }
+          ],
+          "Content": "al",
+          "Spans": [
+            {
+              "Index": 399,
+              "Length": 2
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1030.0,
+              "Y": 697.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1040.0,
+              "Y": 878.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 972.0,
+              "Y": 883.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 956.0,
+              "Y": 700.0
+            }
+          ],
+          "Content": "Conegliano 7",
+          "Spans": [
+            {
+              "Index": 402,
+              "Length": 12
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 870.0,
+              "Y": 814.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 914.0,
+              "Y": 878.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 877.0,
+              "Y": 904.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 831.0,
+              "Y": 837.0
+            }
+          ],
+          "Content": "Ufficio",
+          "Spans": [
+            {
+              "Index": 415,
+              "Length": 7
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 1006.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 797.0,
+              "Y": 1006.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 797.0,
+              "Y": 1042.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 1043.0
+            }
+          ],
+          "Content": "Il sottoscritto dichiara di ritirare",
+          "Spans": [
+            {
+              "Index": 423,
+              "Length": 36
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 882.0,
+              "Y": 1027.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1138.0,
+              "Y": 1000.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1143.0,
+              "Y": 1051.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 886.0,
+              "Y": 1077.0
+            }
+          ],
+          "Content": "29 GEN. 1985",
+          "Spans": [
+            {
+              "Index": 460,
+              "Length": 12
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 1068.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 733.0,
+              "Y": 1066.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 733.0,
+              "Y": 1102.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 1104.0
+            }
+          ],
+          "Content": "la presente concessione oggi addì",
+          "Spans": [
+            {
+              "Index": 473,
+              "Length": 33
+            }
+          ]
+        },
+        {
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 755.0,
+              "Y": 1087.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1127.0,
+              "Y": 1067.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1131.0,
+              "Y": 1114.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 755.0,
+              "Y": 1139.0
+            }
+          ],
+          "Content": ".. x De Werfin. ..",
+          "Spans": [
+            {
+              "Index": 507,
+              "Length": 18
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Paragraphs": [
+    {
+      "Role": {},
+      "Content": "4)",
+      "BoundingRegions": [
+        {
+          "PageNumber": 1,
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 1470.0,
+              "Y": 99.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1499.0,
+              "Y": 103.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1495.0,
+              "Y": 133.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1466.0,
+              "Y": 129.0
+            }
+          ]
+        }
+      ],
+      "Spans": [
+        {
+          "Index": 0,
+          "Length": 2
+        }
+      ]
+    },
+    {
+      "Role": null,
+      "Content": "Il concessionario, il Direttore dei lavori e l'assuntore dei lavori sono responsabili di ogni eventuale inosservanza così delle nor- me di legge e dei regolamenti come delle modalità esecutive fissate nel la presente concessione.",
+      "BoundingRegions": [
+        {
+          "PageNumber": 1,
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 66.0,
+              "Y": 220.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1507.0,
+              "Y": 211.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1508.0,
+              "Y": 367.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 376.0
+            }
+          ]
+        }
+      ],
+      "Spans": [
+        {
+          "Index": 3,
+          "Length": 229
+        }
+      ]
+    },
+    {
+      "Role": null,
+      "Content": "Alla presente si allegano in restituzione, un esemplare di cia- scuno dei disegni presentati in duplice copia, debitamente vistati.",
+      "BoundingRegions": [
+        {
+          "PageNumber": 1,
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 73.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1528.0,
+              "Y": 398.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1528.0,
+              "Y": 473.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 73.0,
+              "Y": 473.0
+            }
+          ]
+        }
+      ],
+      "Spans": [
+        {
+          "Index": 233,
+          "Length": 131
+        }
+      ]
+    },
+    {
+      "Role": null,
+      "Content": "Conegliano, li 22. gennaio. 1985.",
+      "BoundingRegions": [
+        {
+          "PageNumber": 1,
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 63.0,
+              "Y": 572.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 692.0,
+              "Y": 564.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 693.0,
+              "Y": 605.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 64.0,
+              "Y": 613.0
+            }
+          ]
+        }
+      ],
+      "Spans": [
+        {
+          "Index": 365,
+          "Length": 33
+        }
+      ]
+    },
+    {
+      "Role": null,
+      "Content": "al",
+      "BoundingRegions": [
+        {
+          "PageNumber": 1,
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 926.0,
+              "Y": 686.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 962.0,
+              "Y": 696.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 955.0,
+              "Y": 721.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 918.0,
+              "Y": 711.0
+            }
+          ]
+        }
+      ],
+      "Spans": [
+        {
+          "Index": 399,
+          "Length": 2
+        }
+      ]
+    },
+    {
+      "Role": null,
+      "Content": "Conegliano 7",
+      "BoundingRegions": [
+        {
+          "PageNumber": 1,
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 956.0,
+              "Y": 700.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1030.0,
+              "Y": 695.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1043.0,
+              "Y": 878.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 969.0,
+              "Y": 883.0
+            }
+          ]
+        }
+      ],
+      "Spans": [
+        {
+          "Index": 402,
+          "Length": 12
+        }
+      ]
+    },
+    {
+      "Role": null,
+      "Content": "Ufficio",
+      "BoundingRegions": [
+        {
+          "PageNumber": 1,
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 831.0,
+              "Y": 837.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 868.0,
+              "Y": 811.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 914.0,
+              "Y": 878.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 877.0,
+              "Y": 904.0
+            }
+          ]
+        }
+      ],
+      "Spans": [
+        {
+          "Index": 415,
+          "Length": 7
+        }
+      ]
+    },
+    {
+      "Role": null,
+      "Content": "Il sottoscritto dichiara di ritirare",
+      "BoundingRegions": [
+        {
+          "PageNumber": 1,
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 1006.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 797.0,
+              "Y": 1006.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 797.0,
+              "Y": 1043.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 1043.0
+            }
+          ]
+        }
+      ],
+      "Spans": [
+        {
+          "Index": 423,
+          "Length": 36
+        }
+      ]
+    },
+    {
+      "Role": null,
+      "Content": "29 GEN. 1985",
+      "BoundingRegions": [
+        {
+          "PageNumber": 1,
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 881.0,
+              "Y": 1026.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1138.0,
+              "Y": 1000.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1143.0,
+              "Y": 1051.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 886.0,
+              "Y": 1077.0
+            }
+          ]
+        }
+      ],
+      "Spans": [
+        {
+          "Index": 460,
+          "Length": 12
+        }
+      ]
+    },
+    {
+      "Role": null,
+      "Content": "la presente concessione oggi addì .. x De Werfin. ..",
+      "BoundingRegions": [
+        {
+          "PageNumber": 1,
+          "BoundingPolygon": [
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 1064.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1131.0,
+              "Y": 1067.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 1131.0,
+              "Y": 1140.0
+            },
+            {
+              "IsEmpty": false,
+              "X": 67.0,
+              "Y": 1137.0
+            }
+          ]
+        }
+      ],
+      "Spans": [
+        {
+          "Index": 473,
+          "Length": 52
+        }
+      ]
+    }
+  ],
+  "Tables": [],
+  "KeyValuePairs": [],
+  "Styles": [
+    {
+      "IsHandwritten": true,
+      "Spans": [
+        {
+          "Index": 399,
+          "Length": 2
+        }
+      ],
+      "Confidence": 0.4
+    },
+    {
+      "IsHandwritten": true,
+      "Spans": [
+        {
+          "Index": 507,
+          "Length": 18
+        }
+      ],
+      "Confidence": 0.7
+    }
+  ],
+  "Languages": [],
+  "Documents": []
+}
