@@ -1,73 +1,95 @@
 ﻿using Azure.AI.FormRecognizer.DocumentAnalysis;
+using DocumentEstraction.Types;
 
 namespace AIBasedServises
 {
     public class DocumentModel
     {
-        private AnalyzeResult result;
+        private HtsResult result;
 
-        public DocumentModel(AnalyzeResult result)
+        public DocumentModel(HtsResult result)
         {
             this.result = result;
         }
 
-        public double GetFontSize(DocumentParagraph p)
+        public double GetFontSize(HtsParagraph p)
         {
             double paragraphWidth =  Math.Abs((p.BoundingRegions[0].BoundingPolygon[2].Y) - (p.BoundingRegions[0].BoundingPolygon[0].Y));
             int lineCount = GetLineCount(p);
 
             double fontSize = paragraphWidth / lineCount;
 
-            return Math.Round(fontSize, 2, MidpointRounding.AwayFromZero); ;
+            return Math.Round(fontSize, 2, MidpointRounding.AwayFromZero);
         }
 
 
-        private int GetLineCount(DocumentParagraph p)
+        private int GetLineCount(HtsParagraph p)
         {
-
             int count = 0;
 
-            foreach (DocumentPage page in result.Pages)
+            foreach (HtsPage page in result.Pages)
             {
-                foreach (DocumentLine line in page.Lines)
+                foreach (HtsLine line in page.Lines)
                 {
                     if (p.Content.Contains(line.Content))
                         count++;
                 }
-
             }
             return count;
         }
 
 
-        public List<DocumentPage> GetPages()
+        public List<HtsPage> GetPages()
         {
-            return result.Pages.ToList();
+            return result.Pages;
         }
 
-        public List<DocumentParagraph> GetParagraphs()
+        public List<HtsParagraph> GetParagraphs()
         {
-            return result.Paragraphs.ToList();
+            return result.Paragraphs;
         }
 
-        public List<DocumentLine> GetLines()
+        public List<HtsLine> GetLines()
         {
-            List<DocumentLine> lines = new List<DocumentLine>();
-            foreach (DocumentPage page in result.Pages)
+            List<HtsLine> lines = new List<HtsLine>();
+            foreach (HtsPage page in result.Pages)
             {
                 lines.AddRange(page.Lines);
             }
             return lines;
         }
 
-        public List<DocumentWord> GetWords()
+        public List<HtsWord> GetWords()
         {
-            List<DocumentWord> words = new List<DocumentWord>();
-            foreach (DocumentPage page in result.Pages)
+            List<HtsWord> words = new List<HtsWord>();
+            foreach (HtsPage page in result.Pages)
             {
                 words.AddRange(page.Words);
             }
             return words;
+        }
+        
+        public static void Iterate(dynamic variable)
+        {
+            if (variable.GetType() == typeof(Newtonsoft.Json.Linq.JObject))
+            {
+                Dictionary<string, dynamic> dictionary = new Dictionary<string, dynamic>();
+                foreach(var property in variable){
+                    Console.WriteLine("property name: "+property.Name.ToString());
+                    Console.WriteLine("property type: "+property.GetType().ToString());	
+                    Iterate(property.Value);
+                }
+            }else if (variable.GetType() == typeof(Newtonsoft.Json.Linq.JArray))
+            {
+                Console.WriteLine("type is Array");
+                foreach(var item in variable){
+                    Iterate(item);	
+                }
+            }
+            else if (variable.GetType() == typeof(Newtonsoft.Json.Linq.JValue))
+            {
+                Console.WriteLine("type is Variable, value: "+variable.ToString());
+            }
         }
     }
 }

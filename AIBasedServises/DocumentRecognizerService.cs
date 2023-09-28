@@ -1,9 +1,8 @@
-﻿using System.Collections.ObjectModel;
-using System.Drawing;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 using Azure;
 using Azure.AI.FormRecognizer.DocumentAnalysis;
-using Json.Net;
+using DocumentEstraction.Types;
+using Newtonsoft.Json;
 
 namespace AIBasedServises;
 
@@ -22,14 +21,14 @@ public class DocumentRecognizerService
     public string ExtractDocumentInformation(Stream fs)
     {
         AnalyzeResult result = ExtractDocumentInformationUsingModel(fs, "prebuilt-layout");
-        return Newtonsoft.Json.JsonConvert.SerializeObject(result);
+        return JsonConvert.SerializeObject(result);
     }
 
     public string ExtractDocumentKeyValueInformation(Stream fs)
     {
         AnalyzeResult result = ExtractDocumentInformationUsingModel(fs, "prebuilt-document");
         ;
-        return Newtonsoft.Json.JsonConvert.SerializeObject(result);
+        return JsonConvert.SerializeObject(result);
     }
 
     public AnalyzeResult ExtractDocumentInformationUsingModel(Stream fs, string model)
@@ -59,29 +58,29 @@ public class DocumentRecognizerService
                         $"      Point {j} => X: {line.BoundingPolygon[j].X}, Y: {line.BoundingPolygon[j].Y}");
                 }
 
-                Console.WriteLine($"    Angle = {getInclinationAngle(line.BoundingPolygon)}");
+                // Console.WriteLine($"    Angle = {getInclinationAngle(line.BoundingPolygon)}");
             }
         }
 
         return result;
     }
-
-    public List<OcrProcessed> GetOcrProcessed(AnalyzeResult result)
+    
+    public List<OcrProcessed> GetOcrProcessed(HtsResult result)
     {
         List<OcrProcessed> list = new List<OcrProcessed>();
         DocumentModel model = new DocumentModel(result);
 
-        List<DocumentSpan> handWritten = new List<DocumentSpan>();
+        List<HtsSpan> handWritten = new List<HtsSpan>();
 
         foreach (var style in result.Styles)
         {
-            if (style.IsHandwritten == true)
+            if (style.IsHandwritten)
             {
                 handWritten = handWritten.Concat(style.Spans).ToList();
             }
         }
 
-        foreach (DocumentParagraph p in result.Paragraphs)
+        foreach (HtsParagraph p in result.Paragraphs)
         {
             bool doesContainHadWritting = false;
             string hasWritting = "";
@@ -115,14 +114,13 @@ public class DocumentRecognizerService
 
         return list;
     }
-
-
-    private Double getInclinationAngle(IReadOnlyList<PointF> boundingBox)
+    
+    private Double getInclinationAngle(IReadOnlyList<HtsPoint> boundingBox)
     {
-        IReadOnlyList<PointF> lowLine = boundingBox.Take(2).ToList();
+        IReadOnlyList<HtsPoint> lowLine = boundingBox.Take(2).ToList();
 
-        PointF lowLeftP = lowLine.First();
-        PointF lowRightP = lowLine.Last();
+        HtsPoint lowLeftP = lowLine.First();
+        HtsPoint lowRightP = lowLine.Last();
 
         Double angle;
         if ((lowRightP.X - lowLeftP.X) != 0)
