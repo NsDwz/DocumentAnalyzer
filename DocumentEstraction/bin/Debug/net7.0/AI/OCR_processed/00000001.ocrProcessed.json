@@ -1,82 +1,82 @@
 [
   {
     "text": "Comune di Conegliano",
-    "angle": "NaN",
+    "angle": 0.3838855714829968,
     "fontSize": 48.0
   },
   {
     "text": "NUM. PRATICA",
-    "angle": "NaN",
+    "angle": 0.42598307198177243,
     "fontSize": 82.0
   },
   {
     "text": "34",
-    "angle": "NaN",
+    "angle": 0.1432391471666754,
     "fontSize": 26.67
   },
   {
     "text": "ANNO PRATICA",
-    "angle": "NaN",
+    "angle": 0.5100380005575936,
     "fontSize": 81.0
   },
   {
     "text": "1974",
-    "angle": "NaN",
+    "angle": 0.1302174523849325,
     "fontSize": 13.33
   },
   {
     "text": "COGNOME",
-    "angle": "NaN",
+    "angle": 0.21220561673315122,
     "fontSize": 38.5
   },
   {
     "text": "BORTOT",
-    "angle": "NaN",
+    "angle": 0.28576212659036326,
     "fontSize": 77.0
   },
   {
     "text": "NOME",
-    "angle": "NaN",
+    "angle": 0.4244054118518414,
     "fontSize": 68.0
   },
   {
     "text": "LUIGINA",
-    "angle": "NaN",
+    "angle": 0.28576212659036326,
     "fontSize": 69.0
   },
   {
     "text": "VIA/CIVICO",
-    "angle": "NaN",
+    "angle": 0.6389599053386028,
     "fontSize": 71.0
   },
   {
     "text": "VIA DEI COLLI 1 52",
-    "angle": "NaN",
+    "angle": 0.437363868946321,
     "fontSize": 13.0
   },
   {
     "text": "FOGLIO",
-    "angle": "NaN",
+    "angle": 1.0648546684732878,
     "fontSize": 69.0
   },
   {
     "text": "B.1 MAPP",
-    "angle": "NaN",
+    "angle": 0.3305489137916656,
     "fontSize": 17.25
   },
   {
     "text": "66",
-    "angle": "NaN",
+    "angle": 0.3488284453288207,
     "fontSize": 34.5
   },
   {
     "text": "TIPO DOCUMENTO",
-    "angle": "NaN",
+    "angle": 0.47613123833950993,
     "fontSize": 37.0
   },
   {
     "text": "X",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 36.0
   },
   {
@@ -86,82 +86,82 @@
   },
   {
     "text": "DOCUMENTI INIZIALI",
-    "angle": "NaN",
+    "angle": 0.17738574257620127,
     "fontSize": 27.0
   },
   {
     "text": "2 GRAFICI",
-    "angle": "NaN",
+    "angle": 1.808739293313118,
     "fontSize": 17.0
   },
   {
     "text": "3",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 27.0
   },
   {
     "text": "DOCUMENTI VARI",
-    "angle": "NaN",
+    "angle": 0.22646436141027848,
     "fontSize": 27.0
   },
   {
     "text": "4",
-    "angle": "NaN",
+    "angle": 3.366460675942001,
     "fontSize": 26.0
   },
   {
     "text": "FOTO",
-    "angle": "NaN",
+    "angle": 0.763898479425136,
     "fontSize": 25.0
   },
   {
     "text": "5",
-    "angle": "NaN",
+    "angle": 3.0127875265890025,
     "fontSize": 28.0
   },
   {
     "text": "CATASTO",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 24.0
   },
   {
     "text": "6",
-    "angle": "NaN",
+    "angle": 3.366460675942001,
     "fontSize": 26.0
   },
   {
     "text": "RELAZIONI",
-    "angle": "NaN",
+    "angle": 0.3536731618814647,
     "fontSize": 25.0
   },
   {
     "text": "7",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 22.0
   },
   {
     "text": "PRATICA SISMICA",
-    "angle": "NaN",
+    "angle": 0.42598307198177243,
     "fontSize": 28.0
   },
   {
     "text": "8",
-    "angle": "NaN",
+    "angle": 3.814075032622728,
     "fontSize": 25.0
   },
   {
     "text": "GRAFICI SISMICA",
-    "angle": "NaN",
+    "angle": 0.21378922489949434,
     "fontSize": 13.5
   },
   {
     "text": "9 DOCUMENTI FINALI",
-    "angle": "NaN",
+    "angle": 0.8138057980192143,
     "fontSize": 17.5
   },
   {
     "text": "990010099",
-    "angle": "NaN",
+    "angle": 0.0,
     "fontSize": 13.25
   }
 ]

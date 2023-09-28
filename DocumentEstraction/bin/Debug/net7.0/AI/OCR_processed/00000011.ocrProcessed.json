@@ -1,1 +1,347 @@
-[{"text":"Pratica edilizia nr.","angle":"NaN","fontSize":10.0},{"text":"34","angle":"NaN","fontSize":17.5},{"text":"74","angle":-0.9240453252387837,"fontSize":43.0},{"text":"Ditta:","angle":3.0528825885762703,"fontSize":27.0},{"text":"BORTOT LUIGINA","angle":"NaN","fontSize":42.0},{"text":"........................","angle":"NaN","fontSize":6.333333333333333},{"text":"/P.E. POT. 14341/IV","angle":-1.0843332774138492,"fontSize":12.0},{"text":"Costruzione:","angle":"NaN","fontSize":31.0},{"text":"EDIFÍCIO RURALE AD USO STALLA","angle":"NaN","fontSize":36.0},{"text":"......","angle":"NaN","fontSize":6.5},{"text":"Impresa:","angle":"NaN","fontSize":29.0},{"text":"UMBERTO BATTiVELLI","angle":-0.13974552671310692,"fontSize":17.5},{"text":"CERTIFICATO DI REGOLARE ESECUZIONE","angle":"NaN","fontSize":21.5},{"text":"Progetto in data","angle":"NaN","fontSize":31.0},{"text":"20-2-70","angle":"NaN","fontSize":38.0},{"text":"approvato in data","angle":-0.23972988994111274,"fontSize":27.0},{"text":"1-8-74","angle":-0.3331112426804585,"fontSize":19.0},{"text":"redatto da","angle":"NaN","fontSize":28.0},{"text":"Geom. MICHELE MELE","angle":0.0,"fontSize":39.0},{"text":"Modificato in data","angle":"NaN","fontSize":32.0},{"text":"Cat. n. 51 -X","angle":"NaN","fontSize":24.0},{"text":"con concessione edilizia nr.","angle":"NaN","fontSize":9.666666666666666},{"text":"34","angle":"NaN","fontSize":18.5},{"text":"con concessione nr. 34/1974 -15059 prot-","angle":-0.770058206139031,"fontSize":6.8},{"text":"Verbale di accertamento punti fissi di linea e di livello in data","angle":"NaN","fontSize":11.0},{"text":"Inizio dei lavori in data","angle":"NaN","fontSize":32.0},{"text":"30-5-76","angle":"NaN","fontSize":35.0},{"text":"I lavori vennero diretti dal sottoscritto:","angle":"NaN","fontSize":32.0},{"text":"Dott.lvo GIANCARLO TOGNONi","angle":-0.1039849669323846,"fontSize":38.0},{"text":"iscritto all'Albo ING","angle":-1.3456265895057782,"fontSize":12.5},{"text":"della Provincia di","angle":"NaN","fontSize":15.0},{"text":"VARESE","angle":"NaN","fontSize":19.5},{"text":"al nr.","angle":"NaN","fontSize":13.0},{"text":"310","angle":"NaN","fontSize":32.0},{"text":"Lo svolgimento dei lavori è avvenuto come segue:","angle":"NaN","fontSize":33.0},{"text":"L'inizio lavori è avvenuto il 30-5-76. le strutture in c.a. sono","angle":"NaN","fontSize":21.5},{"text":"state realizzate nel periodo 10-5-79; 1-10-79; le opere di","angle":"NaN","fontSize":22.0},{"text":".....","angle":"NaN","fontSize":18.0},{"text":"finitura si sono protratta,fino al dicembre 33.","angle":"NaN","fontSize":48.0},{"text":"Il collaudo statico della costruzione è avvenuto in data","angle":"NaN","fontSize":34.0},{"text":"28-11-79","angle":"NaN","fontSize":45.0},{"text":"ed eseguito dal Sig.","angle":"NaN","fontSize":31.0},{"text":"Dott. Imp. BRUNO MARTINOLi","angle":"NaN","fontSize":41.0},{"text":"iscritto all'Albo","angle":"NaN","fontSize":31.0},{"text":"ING.","angle":"NaN","fontSize":30.0},{"text":"della Provincia di","angle":"NaN","fontSize":16.5},{"text":"TREVISO","angle":-0.9093805016997691,"fontSize":18.0},{"text":"con esito favorevole.","angle":"NaN","fontSize":29.0},{"text":"I lavori stessi sono stati ultimati in data","angle":"NaN","fontSize":34.0},{"text":"23- 12- 83","angle":"NaN","fontSize":49.0},{"text":"nr.","angle":3.468229362026133,"fontSize":20.0},{"text":"231","angle":-0.9240453252387837,"fontSize":40.0},{"text":"Per quanto sopra premesso, il sottoscritto Direttore dei lavori a seguito degli accertamenti compiuti in data odierna, con l'assistenza dell'impresa costruttrice ed alla presenza dei titolare della licenza;","angle":"NaN","fontSize":28.0},{"text":"CONSIDERATO","angle":"NaN","fontSize":35.0},{"text":"- che i lavori sono stati eseguiti secondo le buone regole d'arte;","angle":"NaN","fontSize":34.0},{"text":"che la costruzione si trova in buono stato di conservazione;","angle":"NaN","fontSize":43.0},{"text":"- che per quanto ottime gli oneri della concessione:","angle":"NaN","fontSize":16.0},{"text":"CERTIFICA","angle":"NaN","fontSize":35.0},{"text":"che i lavori di cui trattasi sono regolarmente eseguiti e conformi al progetto ed alle modifiche allo stesso approvate ed autorizzate.","angle":"NaN","fontSize":39.5},{"text":"In particolare certifica che la cubatura, le altezze, le distanze dei confini, i distacchi fra fabbricati, la distan- za dalla strada corrispondono a quelle di progetto.","angle":"NaN","fontSize":40.5},{"text":"Certifica altresì che sono state rispettate le norme igienico - sanitarie previste dal vigente regolamento edilizio.","angle":"NaN","fontSize":27.666666666666668},{"text":"li","angle":-3.1798301435071967,"fontSize":28.0},{"text":"29.01. 85","angle":-0.5280567484084181,"fontSize":38.0},{"text":"IL DIRETTORE DEI LAVORI","angle":"NaN","fontSize":17.0},{"text":"L'IMPRESA ASSUNTRICE DEI LAVORI","angle":"NaN","fontSize":18.0},{"text":"AL TITOLARE DELLA LICENZA","angle":"NaN","fontSize":34.0},{"text":"Bartet Luigina","angle":"NaN","fontSize":77.0},{"text":"V","angle":"NaN","fontSize":29.0},{"text":"ICA (ti) 1000 - 9-81","angle":"NaN","fontSize":22.0}]
+[
+  {
+    "text": "Pratica edilizia nr.",
+    "angle": 0.46019715083575063,
+    "fontSize": 10.0
+  },
+  {
+    "text": "34",
+    "angle": 0.0,
+    "fontSize": 17.5
+  },
+  {
+    "text": "74",
+    "angle": 0.8814039974028798,
+    "fontSize": 43.0
+  },
+  {
+    "text": "Ditta:",
+    "angle": 0.0,
+    "fontSize": 27.0
+  },
+  {
+    "text": "BORTOT LUIGINA",
+    "angle": 0.15319690934433236,
+    "fontSize": 42.0
+  },
+  {
+    "text": "........................",
+    "angle": 0.41820993818656327,
+    "fontSize": 6.33
+  },
+  {
+    "text": "/P.E. POT. 14341/IV",
+    "angle": -1.0843332774138492,
+    "fontSize": 12.0
+  },
+  {
+    "text": "Costruzione:",
+    "angle": 0.3292824626200243,
+    "fontSize": 31.0
+  },
+  {
+    "text": "EDIFÍCIO RURALE AD USO STALLA",
+    "angle": 0.08376570046564379,
+    "fontSize": 36.0
+  },
+  {
+    "text": "......",
+    "angle": 1.9749340035306004,
+    "fontSize": 6.5
+  },
+  {
+    "text": "Impresa:",
+    "angle": 0.49391689677886313,
+    "fontSize": 29.0
+  },
+  {
+    "text": "UMBERTO BATTiVELLI",
+    "angle": -0.13974552671310692,
+    "fontSize": 17.5
+  },
+  {
+    "text": "CERTIFICATO DI REGOLARE ESECUZIONE",
+    "angle": 0.29120855744417123,
+    "fontSize": 21.5
+  },
+  {
+    "text": "Progetto in data",
+    "angle": -0.2557830421735047,
+    "fontSize": 31.0
+  },
+  {
+    "text": "20-2-70",
+    "angle": -0.3148088153050341,
+    "fontSize": 38.0
+  },
+  {
+    "text": "approvato in data",
+    "angle": -0.47945138651773367,
+    "fontSize": 27.0
+  },
+  {
+    "text": "1-8-74",
+    "angle": -0.6623494325688541,
+    "fontSize": 19.0
+  },
+  {
+    "text": "redatto da",
+    "angle": -0.392430706417125,
+    "fontSize": 28.0
+  },
+  {
+    "text": "Geom. MICHELE MELE",
+    "angle": -0.13449688990655917,
+    "fontSize": 39.0
+  },
+  {
+    "text": "Modificato in data",
+    "angle": 0.2348174406723379,
+    "fontSize": 32.0
+  },
+  {
+    "text": "Cat. n. 51 -X",
+    "angle": 0.36727561212669213,
+    "fontSize": 24.0
+  },
+  {
+    "text": "con concessione edilizia nr.",
+    "angle": 0.15319690934433236,
+    "fontSize": 9.67
+  },
+  {
+    "text": "34",
+    "angle": 4.685899790842619,
+    "fontSize": 18.5
+  },
+  {
+    "text": "con concessione nr. 34/1974 -15059 prot-",
+    "angle": -0.770058206139031,
+    "fontSize": 6.8
+  },
+  {
+    "text": "Verbale di accertamento punti fissi di linea e di livello in data",
+    "angle": 0.20365712059972918,
+    "fontSize": 11.0
+  },
+  {
+    "text": "Inizio dei lavori in data",
+    "angle": 0.1830529826043458,
+    "fontSize": 32.0
+  },
+  {
+    "text": "30-5-76",
+    "angle": 0.30476190077098053,
+    "fontSize": 35.0
+  },
+  {
+    "text": "I lavori vennero diretti dal sottoscritto:",
+    "angle": 0.21744024281030344,
+    "fontSize": 32.0
+  },
+  {
+    "text": "Dott.lvo GIANCARLO TOGNONi",
+    "angle": -0.1039849669323846,
+    "fontSize": 38.0
+  },
+  {
+    "text": "iscritto all'Albo ING",
+    "angle": -1.3456265895057782,
+    "fontSize": 12.5
+  },
+  {
+    "text": "della Provincia di",
+    "angle": -0.23578376273999185,
+    "fontSize": 15.0
+  },
+  {
+    "text": "VARESE",
+    "angle": 0.39788096479894225,
+    "fontSize": 19.5
+  },
+  {
+    "text": "al nr.",
+    "angle": 2.4540317414863044,
+    "fontSize": 13.0
+  },
+  {
+    "text": "310",
+    "angle": 0.9240453252387837,
+    "fontSize": 32.0
+  },
+  {
+    "text": "Lo svolgimento dei lavori è avvenuto come segue:",
+    "angle": 0.1705226530101013,
+    "fontSize": 33.0
+  },
+  {
+    "text": "L'inizio lavori è avvenuto il 30-5-76. le strutture in c.a. sono",
+    "angle": 0.17534996528710523,
+    "fontSize": 21.5
+  },
+  {
+    "text": "state realizzate nel periodo 10-5-79; 1-10-79; le opere di",
+    "angle": 0.22682296741082306,
+    "fontSize": 22.0
+  },
+  {
+    "text": ".....",
+    "angle": 0.0,
+    "fontSize": 18.0
+  },
+  {
+    "text": "finitura si sono protratta,fino al dicembre 33.",
+    "angle": 0.05354744353820247,
+    "fontSize": 48.0
+  },
+  {
+    "text": "Il collaudo statico della costruzione è avvenuto in data",
+    "angle": 0.30886912792017807,
+    "fontSize": 34.0
+  },
+  {
+    "text": "28-11-79",
+    "angle": 1.238634700880323,
+    "fontSize": 45.0
+  },
+  {
+    "text": "ed eseguito dal Sig.",
+    "angle": 0.20759249951300213,
+    "fontSize": 31.0
+  },
+  {
+    "text": "Dott. Imp. BRUNO MARTINOLi",
+    "angle": -0.20389870880522673,
+    "fontSize": 41.0
+  },
+  {
+    "text": "iscritto all'Albo",
+    "angle": -0.27154195580009666,
+    "fontSize": 31.0
+  },
+  {
+    "text": "ING.",
+    "angle": 0.0,
+    "fontSize": 30.0
+  },
+  {
+    "text": "della Provincia di",
+    "angle": 0.0,
+    "fontSize": 16.5
+  },
+  {
+    "text": "TREVISO",
+    "angle": -1.2124280532581289,
+    "fontSize": 18.0
+  },
+  {
+    "text": "con esito favorevole.",
+    "angle": 0.0,
+    "fontSize": 29.0
+  },
+  {
+    "text": "I lavori stessi sono stati ultimati in data",
+    "angle": 0.3058464559913847,
+    "fontSize": 34.0
+  },
+  {
+    "text": "23- 12- 83",
+    "angle": 0.6714041828499762,
+    "fontSize": 49.0
+  },
+  {
+    "text": "nr.",
+    "angle": 3.5763343749973515,
+    "fontSize": 20.0
+  },
+  {
+    "text": "231",
+    "angle": 0.0,
+    "fontSize": 40.0
+  },
+  {
+    "text": "Per quanto sopra premesso, il sottoscritto Direttore dei lavori a seguito degli accertamenti compiuti in data odierna, con l'assistenza dell'impresa costruttrice ed alla presenza dei titolare della licenza;",
+    "angle": 0.28027062841036515,
+    "fontSize": 28.0
+  },
+  {
+    "text": "CONSIDERATO",
+    "angle": 0.32554070836095844,
+    "fontSize": 35.0
+  },
+  {
+    "text": "- che i lavori sono stati eseguiti secondo le buone regole d'arte;",
+    "angle": 0.12832180439549576,
+    "fontSize": 34.0
+  },
+  {
+    "text": "che la costruzione si trova in buono stato di conservazione;",
+    "angle": 0.2808594246229138,
+    "fontSize": 43.0
+  },
+  {
+    "text": "- che per quanto ottime gli oneri della concessione:",
+    "angle": 0.0,
+    "fontSize": 16.0
+  },
+  {
+    "text": "CERTIFICA",
+    "angle": 0.4307872278406705,
+    "fontSize": 35.0
+  },
+  {
+    "text": "che i lavori di cui trattasi sono regolarmente eseguiti e conformi al progetto ed alle modifiche allo stesso approvate ed autorizzate.",
+    "angle": 0.0,
+    "fontSize": 39.5
+  },
+  {
+    "text": "In particolare certifica che la cubatura, le altezze, le distanze dei confini, i distacchi fra fabbricati, la distan- za dalla strada corrispondono a quelle di progetto.",
+    "angle": 0.0799661420238629,
+    "fontSize": 40.5
+  },
+  {
+    "text": "Certifica altresì che sono state rispettate le norme igienico - sanitarie previste dal vigente regolamento edilizio.",
+    "angle": 0.24006472342298307,
+    "fontSize": 27.67
+  },
+  {
+    "text": "li",
+    "angle": -3.1798301435071967,
+    "fontSize": 28.0
+  },
+  {
+    "text": "29.01. 85",
+    "angle": -0.5305013206261272,
+    "fontSize": 38.0
+  },
+  {
+    "text": "IL DIRETTORE DEI LAVORI",
+    "angle": 0.46834743257003936,
+    "fontSize": 17.0
+  },
+  {
+    "text": "L'IMPRESA ASSUNTRICE DEI LAVORI",
+    "angle": 0.4511385451067286,
+    "fontSize": 18.0
+  },
+  {
+    "text": "AL TITOLARE DELLA LICENZA",
+    "angle": 0.5617053524441697,
+    "fontSize": 34.0
+  },
+  {
+    "text": "Bartet Luigina",
+    "angle": 1.4288501545651306,
+    "fontSize": 77.0
+  },
+  {
+    "text": "V",
+    "angle": 3.0127875265890025,
+    "fontSize": 29.0
+  },
+  {
+    "text": "ICA (ti) 1000 - 9-81",
+    "angle": 0.32188301869620195,
+    "fontSize": 22.0
+  }
+]
